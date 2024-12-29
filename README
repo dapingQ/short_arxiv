@@ -1,0 +1,13 @@
+#A short arxiv RSS generator
+
+- Fork and clone to your local client or a VPS
+- Set the page option in repository setting
+- Install `xmlstarlet` based on your operating system
+- Edit the script and deploy as you want
+
+**Optional**
+
+You can all set the script to run every day by crontab
+- Run `crontab -e`
+- Add the following adn save.
+`0 8 * * * <YOUR_REPO>/ShortArxivRSS.sh  <YOUR_REPO>/ShortArxivRSS.log 2>&1 `
