@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # repo_PATHsitory path
 REPO_PATH="$HOME/short_arxiv_rss"
 
