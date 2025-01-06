@@ -7,12 +7,124 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 05:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 05:00:03 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Sun, 05 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
-      <day>Sunday</day>
       <day>Saturday</day>
+      <day>Sunday</day>
     </skipDays>
+    <item>
+      <title>Transfer Learning Analysis of Variational Quantum Circuits</title>
+      <link>https://arxiv.org/abs/2501.01507</link>
+      <description>arXiv:2501.01507v1 Announce Type: new 
+Abstract: This work analyzes transfer learning of the Variational Quantum Circuit (VQC). Our framework begins with a pretrained VQC configured in one domain and calculates the transition of 1-parameter unitary subgroups required for a new domain. A formalism is established to investigate the adaptability and capability of a VQC under the analysis of loss bounds. Our theory observes knowledge transfer in VQCs and provides a heuristic interpretation for the mechanism. An analytical fine-tuning method is derived to attain the optimal transition for adaptations of similar domains.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.01507v1</guid>
+      <category>quant-ph</category>
+      <category>cs.AI</category>
+      <category>cs.LG</category>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Huan-Hsin Tseng, Hsin-Yi Lin, Samuel Yen-Chi Chen, Shinjae Yoo</dc:creator>
+    </item>
+    <item>
+      <title>Noise-Mitigated Variational Quantum Eigensolver with Pre-training and Zero-Noise Extrapolation</title>
+      <link>https://arxiv.org/abs/2501.01646</link>
+      <description>arXiv:2501.01646v1 Announce Type: new 
+Abstract: The variational quantum eigensolver, as a hybrid quantum-classical algorithm, is widely applied in quantum chemistry simulations, especially in computing the electronic structure of complex molecular systems. However, on existing noisy intermediate-scale quantum devices, factors such as quantum decoherence, measurement errors, and gate operation imprecisions are unavoidable. To overcome these challenges, this study proposes an efficient noise-mitigating variational quantum eigensolver for accurate computation of molecular ground state energies in noisy environments. We design the quantum circuit with reference to the structure of matrix product states and utilize it to pre-train the circuit parameters, which ensures circuit stability and mitigates fluctuations caused by initialization. We also employ zero-noise extrapolation to mitigate quantum noise and combine it with neural networks to improve the accuracy of the noise-fitting function, which significantly eliminates noise interference. Furthermore, we implement intelligent grouping measurements of Hamiltonian Pauli strings, which not only reduces measurement errors but also improves sampling efficiency. We conduct experiments to solve the ground state energy of the $H_4$ molecule on the Mindquantum quantum computing platform, and the results demonstrate that our algorithm can constrain noise errors within the range of $\mathcal{O}(10^{-2}) \sim \mathcal{O}(10^{-1})$, outperforming mainstream variational quantum eigensolver methods. This work provides a new strategy for high-precision quantum chemistry calculations on near-term noisy quantum hardware.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.01646v1</guid>
+      <category>quant-ph</category>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Wanqi Sun, Jungang Xu, Chenghua Duan</dc:creator>
+    </item>
+    <item>
+      <title>Quantum state transfer of superposed multi-photon states via phonon-induced dynamic resonance in an optomechanical system</title>
+      <link>https://arxiv.org/abs/2501.01647</link>
+      <description>arXiv:2501.01647v1 Announce Type: new 
+Abstract: We propose a method to transfer macroscopically superposed states between two optical cavities mediated by a mechanical oscillator, which works in a nonlinear regime of optomechanical interaction. Our approach relies on the phonon-induced dynamic resonance, where the motion of mechanical oscillator dynamically sets on/off the resonance between two cavities. Our method assumes high amplitude limit of oscillator, weak coupling between optical cavities, and adiabatic approximation. We show that, under these conditions, various multi-photon quantum states, especially, Schr{\"o}dinger cat states, can be transferred with nearly perfect fidelity in a deterministic process. We show that transfer fidelity of 0.99 can be achieved using the experimental parameters in currently available technology.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.01647v1</guid>
+      <category>quant-ph</category>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Xuanloc Leu, Xuan-Hoai Thi Nguyen, Jinhyoung Lee</dc:creator>
+    </item>
+    <item>
+      <title>Topological quantum compilation of metaplectic anyons</title>
+      <link>https://arxiv.org/abs/2501.01745</link>
+      <description>arXiv:2501.01745v1 Announce Type: new 
+Abstract: Topological quantum computing holding global anti-interference ability is realized by braiding some anyons, such as well-known Fibonacci anyon. Here, based on F-matrices and R-symbols and fusion rules of metaplectic anyon model, we obtained two anyon models V112_2 and V133_1. We study systematically the compilation of the metaplectic anyon model through elementary braiding matrices obtained analytically. For one-qubit case, the classical H- and T-gate can be well constructed using the genetic algorithm enhanced Solovay-Kitaev algorithm (GA-enhanced SKA) by V112_2/V133_1, and the obtained accuracy of the H/T-gate is slightly inferior to the corresponding gates of Fibonacci anyon model, but it also can meet the requirements of fault-tolerant quantum computing. For two-qubit case, we use the exhaustive method for short length and the GA for long length to obtain braidword for both V112_2 and V133_1 models. The resulting matrix for the CNOT-gate can approximate the local equivalence class of the CNOT-gate well and demonstrates a much smaller error than the Fibonacci model especially for V133_1.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.01745v1</guid>
+      <category>quant-ph</category>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Jiangwei Long, Jianxin Zhong, Lijun Meng</dc:creator>
+    </item>
+    <item>
+      <title>Genetic algorithm enhanced Solovay-Kitaev algorithm for quantum compiling</title>
+      <link>https://arxiv.org/abs/2501.01746</link>
+      <description>arXiv:2501.01746v1 Announce Type: new 
+Abstract: Quantum compiling trying to approximate the target qubit gate by finding an optimal sequence (braid word) of basic braid operations is a fundamental problem in quantum computing. We develop a genetic algorithm (GA) enhanced Solovay-Kitaev algorithm (SKA) to approximate single qubit gates with four basic braid matrices of Fibonacci anyons. The GA-enhanced SKA demonstrates that the algorithm performs strongly and can easily find the ideal braid word from an exponentially large space. The resulting precision of the approximate single-qubit quantum gate is superior to that of the Monte Carlo (MC) enhanced SKA, as well as comparable to that of the deep reinforcement learning (RL) for the length of braid word greater than 25. The 2(3)-order approximation of GA-enhanced SKA for basic braiding length l0=50(30) leads to an optimal braid word at a distance of 5.9*10-7, which is sufficient for most cases of quantum computing. Our work provides an alternative approach to solving and optimizing quantum compilation of non-Abelian anyon quantum gates and is useful for realizing topological quantum computation in the future.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.01746v1</guid>
+      <category>quant-ph</category>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Jiangwei Long, Xuyang Huang, Jianxin Zhong, Lijun Meng</dc:creator>
+    </item>
+    <item>
+      <title>Entanglement transfer between giant atoms in waveguide-QED systems</title>
+      <link>https://arxiv.org/abs/2501.01846</link>
+      <description>arXiv:2501.01846v1 Announce Type: new 
+Abstract: We investigate the entanglement transfer between giant atoms in waveguide-QED systems. The system consists of two pairs of two-level giant atoms, $ab$ and $cd$, each independently coupled to its respective one-dimensional waveguide. Initially, entangled states are stored in atom pair $ac$. There we consider three giant atom coupling configurations: separated, braided, and nested. For comparison, the entanglement transfer for small atoms configuration is also studied here. We focus on the entanglement transfer from atom pair $ac$ to atoms pair $bd$ and atom pair $ab$ in these four coupling configurations. It is shown that the transfer of entanglement in each coupling configuration strongly depends on phase shift. In particular, the braided configuration demonstrates superior performance in entanglement transfer. For the entanglement transfer from atom pair $ac$ to atom pair $bd$, complete entanglement transfer is presented in braided configuration, a behavior not found in small atom or other giant atom configurations. For the entanglement transfer from atom pair $ac$ to atom pair $ab$, although the maximum entanglement transferred to atom pair $ab$ in the braided configuration is half of that one to atom pair $bd$, it is still higher than that in the small atom, separated, and nested configurations. This study lays the foundation for entanglement transfer between giant atoms in waveguide-QED platforms.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.01846v1</guid>
+      <category>quant-ph</category>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Jie Liu, Zhi-Qiang Liu, Yu Sang, Lei Tan</dc:creator>
+    </item>
+    <item>
+      <title>Two-cavity-mediated photon-pair emission by one atom</title>
+      <link>https://arxiv.org/abs/2501.01891</link>
+      <description>arXiv:2501.01891v1 Announce Type: new 
+Abstract: Photon-pair sources are widely used in quantum optics and quantum information experiments. Despite their broad deployment, there has not yet been an on-demand implementation with efficient into-fiber photon generation and high single-photon purity. Here we report on such a source based on a single atom with three energy levels in ladder configuration and coupled to two optical fiber cavities. We efficiently generate photon pairs with in-fiber emission efficiency of $\eta_{\mathrm{pair}}=16(1)\%$ and study their temporal correlation properties. We simulate theoretically a regime with strong atom-cavity coupling and find that photons are directly emitted from the ground state, i.e. without atomic population in any intermediate state. We propose a scenario to observe such a double-vacuum-stimulated effect experimentally.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.01891v1</guid>
+      <category>quant-ph</category>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <arxiv:DOI>10.1364/OPTICAQ.529241</arxiv:DOI>
+      <arxiv:journal_reference>Optica Quantum 2, 346-350 (2024)</arxiv:journal_reference>
+      <dc:creator>Gianvito Chiarella, Tobias Frank, Pau Farrera, Gerhard Rempe</dc:creator>
+    </item>
+    <item>
+      <title>Restoring Heisenberg-Limited Precision in Non-Markovian Open Quantum Systems via Dynamical Decoupling</title>
+      <link>https://arxiv.org/abs/2501.01917</link>
+      <description>arXiv:2501.01917v1 Announce Type: new 
+Abstract: Non-classical resources enable measurements to achieve a precision that exceeds the limits predicted by the central limit theorem. However, environmental noise arising from system-environment interactions severely limits the performance of such resources through decoherence. While significant progress has been made in mitigating Markovian noise, the extent to which non-Markovian noise can be mitigated remains poorly understood. We demonstrate that Heisenberg Scaling, the ultimate quantum limit on measurement precision, can be recovered in quantum metrology under non-Markovian noise by leveraging carefully designed Dynamical Decoupling Techniques. Importantly, our approach does not rely on assumptions of Markovian dynamics. By imposing appropriate conditions on the control Hamiltonian, we show that HS can be achieved irrespective of whether the noise is Markovian or non-Markovian. We also prove necessary and sufficient conditions for the existence of such control Hamiltonians. As an illustrative example, we apply our framework to the damped Jaynes-Cummings model, successfully mitigating memory effects and maintaining measurement precision in complex, non-Markovian environments. These findings highlight the power of quantum control to overcome decoherence challenges and enhance metrological performance in realistic, noisy quantum systems.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.01917v1</guid>
+      <category>quant-ph</category>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Bakmou Lahcen, Ke Zeng, Yu Jiang, Kok Chuan Tan</dc:creator>
+    </item>
+    <item>
+      <title>Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform</title>
+      <link>https://arxiv.org/abs/2501.01953</link>
+      <description>arXiv:2501.01953v1 Announce Type: new 
+Abstract: This work introduces a method for correcting the output distribution of a quantum computer that does not require encoding of the logical qubits into more physical qubits. Thus, it avoids the encoding overhead of standard quantum error correction codes. If the noise affecting the circuit is a Pauli channel (we can bias the noise with twirling), the ideal output distribution and noisy distribution in the standard basis are related by a stochastic matrix. We prove that this matrix has a circulant block structure. Thus, the ideal distribution can be retrieved from the noisy output distribution by applying the Fast Fourier Transform. Moreover, due to its circulant structure, characterization of this matrix can be achieved by sampling a single circuit. The results are corroborated with quantum hardware executions consisting of 20-qubit and 30-qubit GHZ state preparation, 5-qubit Grover, 6-qubit and 10-qubit quantum phase estimation, and 10-qubit and 20-qubit Dicke state preparation circuits. The correction process dramatically improves the accuracies of the output distributions. For 30-qubit GHZ state preparation, a corrected distribution fidelity of 97.7% is achieved from an initial raw fidelity of 23.2%.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.01953v1</guid>
+      <category>quant-ph</category>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Alvin Gonzales</dc:creator>
+    </item>
   </channel>
 </rss>
