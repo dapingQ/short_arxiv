@@ -7,147 +7,54 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2025 05:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 05:00:06 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Wed, 08 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
-      <day>Sunday</day>
       <day>Saturday</day>
+      <day>Sunday</day>
     </skipDays>
     <item>
-      <title>Equalities and inequalities from entanglement, loss, and beam splitters</title>
-      <link>https://arxiv.org/abs/2501.02047</link>
-      <description>arXiv:2501.02047v1 Announce Type: new 
-Abstract: Quantum optics bridges esoteric notions of entanglement and superposition with practical applications like metrology and communication. Throughout, there is an interplay between information theoretic concepts such as entropy and physical considerations such as quantum system design, noise, and loss. Therefore, a fundamental result at the heart of these fields has numerous ramifications in development of applications and advancing our understanding of quantum physics. Our recent proof for the entanglement properties of states interfering with the vacuum on a beam splitter led to monotonicity and convexity properties for quantum states undergoing photon loss [Lupu-Gladstein et al., arXiv:2411.03423 (2024)] by breathing life into a decades-old conjecture. In this work, we extend these fundamental properties to measures of similarity between states, provide inequalities for creation and annihilation operators beyond the Cauchy-Schwarz inequality, prove a conjecture [Hertz et al., PRA 110, 012408 (2024)] dictating that nonclassicality through the quadrature coherence scale is uncertifiable beyond a loss of 50%, and place constraints on quasiprobability distributions of all physical states. These ideas can now circulate afresh throughout quantum optics.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.02047v1</guid>
+      <title>Demonstration of Quantum Polarization Microscopy using an Entangled-Photon Source</title>
+      <link>https://arxiv.org/abs/2501.03478</link>
+      <description>arXiv:2501.03478v1 Announce Type: new 
+Abstract: With the advancement of non-classical light sources such as single-photon and entangled-photon sources, innovative microscopy based on the quantum principles has been proposed over traditional microscopy. This paper introduces the experimental demonstration of a quantum polarization microscopic technique that incorporates a quantum-entangled photon source. Although the point that employs the variation of polarization angle due to reflection or transmission at the sample is similar to classical polarization microscopy, the method for constructing image contrast is significantly different. Image contrast is constructed by the coincidence count of signal and idler photons. In the case that coincidence count is recorded from both the signal and idler photons, the photon statistics resemble a thermal state, similar to the blackbody radiation, but with a significantly higher peak intensity in the second order autocorrelation function at zero delay that is derived from coincidence count. While, when the coincidence count is taken from either the signal or idler photon only, though the photon state exhibits a thermal state again, the photon statistics become more dispersive and result in a lower peak intensity of the autocorrelation function. These different thermal states can be switched by slightly changing the photon polarization, which is suddenly aroused within narrow range of analyzer angle. This polarization microscopic technique can provide a superior imaging technique compared to the classical method, opening a new frontier for research in material sciences, biology, and other fields requiring high-resolution imaging.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.03478v1</guid>
       <category>quant-ph</category>
-      <category>math-ph</category>
-      <category>math.MP</category>
       <category>physics.optics</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Anaelle Hertz, Noah Lupu-Gladstein, Khabat Heshami, Aaron Z. Goldberg</dc:creator>
-    </item>
-    <item>
-      <title>Sub-Poissonian Light in a Waveguide Kerr-medium</title>
-      <link>https://arxiv.org/abs/2501.02405</link>
-      <description>arXiv:2501.02405v1 Announce Type: new 
-Abstract: Waveguides on a chip represent a new medium for implementing nonlinear optical transformations of light. The capabilities of waveguides for generating sub-Poissonian light in the form of a displaced Kerr state are analyzed. We offer analytical formulas for estimating the ultimate capabilities of suppressing photon fluctuations of a displaced Kerr state for any value of input light amplitude. The results of numerical calculations are presented. It is shown that the degree of photon noise suppression can reach values of 5 - 15 dB with 100 mW light power in waveguides a few meters long.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.02405v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>R. Singh, A. E. Teretenkov, A. V. Masalov</dc:creator>
-    </item>
-    <item>
-      <title>Photon Blockade in Cavity Magnomechanical Systems using Phase-Controlled Feedback</title>
-      <link>https://arxiv.org/abs/2501.02472</link>
-      <description>arXiv:2501.02472v1 Announce Type: new 
-Abstract: In this paper, we optimize photon blockade in a cavity magnomechanical system using feedback by introducing optimized values for the phase and magnetic field coupling strength at each drive frequency. It is shown that the computed values significantly reduce the photon second-order correlation function in the dynamic Schrodinger equation. The Radau method, an implicit Runge-Kutta method, has been employed, which provides more accurate results. Furthermore, we demonstrate that a frequency detuning between the magnon and photon can result in deep values of photon blockade. Utilizing these optimized parameters outperforms scenarios that rely on constant, non-optimized values. This approach provides strong potential for applications in quantum sensing and quantum computation.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.02472v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Mounes Eslami, Kurosh Javidan</dc:creator>
-    </item>
-    <item>
-      <title>Orbital Angular Momentum Experimental Bound on the Maximum Predictive Power of Physical Theories in Multi-Dimensional Systems</title>
-      <link>https://arxiv.org/abs/2501.03109</link>
-      <description>arXiv:2501.03109v1 Announce Type: new 
-Abstract: The completeness of quantum mechanics in predictive power is a central question in its foundational study. While most investigations focus on two-dimensional systems, high-dimensional systems are more general and widely applicable. Building on the non-extensibility theorem by Colbeck and Renner [Phys. Rev. Lett. 101, 050403 (2008)], which established that no higher theory can enhance the predictive power of quantum mechanics for two-dimensional systems, we extend this result to arbitrarily dimensional systems. We connect maximum potential predictive power achievable by any alternative theory to experimentally observable correlations, and establish optimal experimental bounds across varying dimensions by exploiting two-photon orbital angular momentum entangled states with entanglement concentration. These bounds falsify a broader class of alternative theories, including Bell's and Leggett's models, and those that remain theoretically ambiguous or experimentally unverified. Our findings not only deepen the foundational understanding of quantum mechanics but also hold significant potential for high-dimensional quantum cryptography.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.03109v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Jianqi Sheng, Dongkai Zhang, Lixiang Chen</dc:creator>
-    </item>
-    <item>
-      <title>Crypto-nonlocality in arbitrarily dimensional systems</title>
-      <link>https://arxiv.org/abs/2501.03123</link>
-      <description>arXiv:2501.03123v1 Announce Type: new 
-Abstract: According to Bell's theorem, any model based on local variables cannot reproduce certain quantum correlations. A critical question is whether one could devise an alternative framework, based on nonlocal variables, to reproduce quantum correlations while adhering to fundamental principles. Leggett proposed a nonlocal model, termed crypto-nonlocality, rooted in considerations of the reality of photon polarization, but this property restricted it to being bi-dimensional. In this Letter, we extend the crypto-nonlocal model to higher dimensions and develop a framework for constructing experimentally testable Leggett-type inequalities for arbitrary dimensions. Our investigation into models that yield specific predictions exceeding those of quantum mechanics is intriguing from an information-theoretic perspective and is expected to deepen our understanding of quantum correlations.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.03123v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Jianqi Sheng, Dongkai Zhang, Lixiang Chen</dc:creator>
-    </item>
-    <item>
-      <title>Robustness of chaotic-light correlation plenoptic imaging against turbulence</title>
-      <link>https://arxiv.org/abs/2501.01967</link>
-      <description>arXiv:2501.01967v1 Announce Type: cross 
-Abstract: We consider an imaging scheme, inspired by microscopy, in which both correlation imaging and first-order intensity imaging can be performed simultaneously, to investigate the effects of strong turbulence on the two different kinds of images. The comparison between direct and correlation imaging in the presence of strong turbulence unambiguously revealed an advantage of the latter. Remarkably, this advantage, quantified by analyzing the visibility of periodic sample patterns, is more striking when the presence of turbulence becomes the dominant factor in determining the image resolution.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.01967v1</guid>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>G. Scala, G. Massaro, G. Borregine, C. Lupo, M. D'Angelo, F. V. Pepe</dc:creator>
-    </item>
-    <item>
-      <title>Photonic Modes in Twisted Graphene Nanoribbons</title>
-      <link>https://arxiv.org/abs/2501.02445</link>
-      <description>arXiv:2501.02445v1 Announce Type: cross 
-Abstract: This study investigates the behavior of photonic modes in twisted graphene nanoribbons (TGNRs) using an analytical approach based on solving the fully covariant vector boson equation. We present a model that demonstrates how helical twisting in TGNRs significantly affects the evolution of photonic modes. Our analytical solutions yield detailed expressions for mode profiles, energy spectra, and decay characteristics. We find that increasing the twist parameter shortens the decay times (\(\tau_{ns}\)) for damped modes, indicating enhanced photonic coupling due to the twisted geometry. Conversely, longer nanoribbons (NRs) exhibit increased decay times, showing a length (\(L\))-dependent effect, where \(\tau_{ns} \propto L / c\), with \(c\) representing the speed of light. These findings may enhance the understanding of light control in nanostructures and suggest potential applications in tunable photonic devices, topological photonics, and quantum optical systems.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.02445v1</guid>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <arxiv:DOI>10.1016/j.physe.2024.116146</arxiv:DOI>
-      <arxiv:journal_reference>Physica E: Low-dimensional Systems and Nanostructures 166 (2025) 116146</arxiv:journal_reference>
-      <dc:creator>A. Guvendi, S. G. Dogan, O. Mustafa, K. Hasanirokh</dc:creator>
+      <dc:creator>Mousume Samad, Maki Shimizu, Yasuto Hijikata</dc:creator>
     </item>
     <item>
-      <title>Impact of cut-off frequency effect on resonance energy transfer and Casimir-Polder interaction</title>
-      <link>https://arxiv.org/abs/2501.03077</link>
-      <description>arXiv:2501.03077v1 Announce Type: cross 
-Abstract: Using the Green's function approach, we investigate the resonance energy transfer (RET) rate between two parallel, identical two-level atoms in the presence of three types of cylindrical system: a distributed Bragg reflector (DBR), a perfectly reflecting wall (PRW), and a two-layer silicon fiber. Our analysis, incorporating the cut-off frequency condition, reveals significant suppression of the RET rate for atoms positioned along the axis of the cylinder with the PRW. In contrast, for atoms located within the DBR, the RET rate is enhanced in the far zone. Additionally, we find that for atoms oriented radially are placed inside or near the surface of the silicon fiber, the RET rate is entirely inhibited. We also investigate the Casimir-Polder (CP) interaction between a cut-off-frequency DBR and an excited atom, discovering a fully attractive potential towards the surface for the atom within the waveguide.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.03077v1</guid>
-      <category>physics.optics</category>
+      <title>Highly sensitive temperature sensing via quadratic optomechanical coupling</title>
+      <link>https://arxiv.org/abs/2501.03586</link>
+      <description>arXiv:2501.03586v1 Announce Type: new 
+Abstract: The effective frequency of a mechanical resonator can be tuned via the spring effect induced by quadratic optomechanical (QOM) coupling, and both spontaneous symmetry breaking and anti-parity-time phase transition were predicted in the QOM systems. Here, we show that the mechanical susceptibility can be enhanced significantly by driving the QOM system with a strong external optical field, and divergence will happen as the driving strength approaches the critical point (CP) for spontaneous symmetry breaking. Based on the CP, we propose a highly sensitive temperature sensor with a mechanical resonator quadratically coupled to an optical mode. We find that the sensitivity of the temperature sensor can be enhanced by several orders of magnitude as the driving strength approaches the CP, and the sensitivity of the temperature sensor remains high in the low-temperature limit. Our work provides an effective way to realize highly sensitive temperature sensing at ultra-low temperature in the QOM systems.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.03586v1</guid>
       <category>quant-ph</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Nguyen Dung Chinh, Vinh N. T. Pham, Nguyen Duy Vy</dc:creator>
+      <category>physics.optics</category>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Yu-Sheng Tang, Xun-Wei Xu, Jie-Qiao Liao, Hui Jing, Le-Man Kuang</dc:creator>
     </item>
     <item>
-      <title>Cavity quantum electrodynamics of photonic temporal crystals</title>
-      <link>https://arxiv.org/abs/2501.03106</link>
-      <description>arXiv:2501.03106v1 Announce Type: cross 
-Abstract: Photonic temporal crystals host a variety of intriguing phenomena, from wave amplification and mixing to exotic band structures, all stemming from the time-periodic modulation of optical properties. While these features have been well described classically, their quantum manifestation has remained elusive. Here, we introduce a quantum electrodynamical model of PTCs that reveals a deeper connection between classical and quantum pictures: the classical momentum gap arises from a localization-delocalization quantum phase transition in a Floquet-photonic synthetic lattice. Leveraging an effective Hamiltonian perspective, we pinpoint the critical momenta and highlight how classical exponential field growth manifests itself as wave-packet acceleration in the quantum synthetic space. Remarkably, when a two-level atom is embedded in such a cavity, its Rabi oscillations undergo irreversible decay to a half-and-half mixed state-a previously unobserved phenomenon driven by photonic delocalization within the momentum gap, even with just a single frequency mode. Our findings establish photonic temporal crystals as versatile platforms for studying nonequilibrium quantum photonics and suggest new avenues for controlling light matter interactions through time domain engineering.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.03106v1</guid>
-      <category>physics.optics</category>
-      <category>cond-mat.other</category>
+      <title>Experimental realization of scanning quantum microscopy</title>
+      <link>https://arxiv.org/abs/2501.03617</link>
+      <description>arXiv:2501.03617v1 Announce Type: new 
+Abstract: Quantum imaging is an ever expanding research field, in which the aim is to exploit the quantum nature of light to enhance image reconstruction capabilities. Despite a number of successful demonstrations for quantum imaging, quantum microscopy still seems out of the range for practical applications, due to different physical and technical reasons. Here we propose an imaging method exploiting the quantum correlations of photon pairs and a scanning microscope to achieve fast, single mode quantum imaging. We first test our technique on a metal grating to estimate the resolution capabilities of our system. Moreover, we asses its potential in terms of the number of available independent pixels at full resolution compared to different quantum imaging approaches. Finally, we demonstrate scanning quantum microscopy of onion epithelial cells, paving the way towards scalable quantum microscopy for bio-physical applications. Our results, combined with the rapidly evolving photon-pair generation and detection technology towards the mid-infrared, could lead to an extension of quantum microscopy applications towards the mid-infrared, to access the molecular fingerprint region.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.03617v1</guid>
       <category>quant-ph</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Junhyeon Bae, Kyungmin Lee, Bumki Min, Kun Woo Kim</dc:creator>
-    </item>
-    <item>
-      <title>Tunable absorption spectrum splitting in a pulse-driven three-level system</title>
-      <link>https://arxiv.org/abs/2501.03188</link>
-      <description>arXiv:2501.03188v1 Announce Type: cross 
-Abstract: When a two-level system is driven on resonance by a strong incident field, its emission spectrum is characterized by the well-known Mollow triplet. If the absorption from the excited state, in this continuously driven two-level system, to a third, higher energy level, is probed by a weak field, the resulting absorption spectrum features the Autler-Townes doublet with two peaks separated by the Rabi frequency of the strong driving field. It has been shown that when the two-level system is instead driven by a periodic pulse sequence, the emission spectrum obtained has similarities with the Mollow triplet even though the system is only driven during the short application time of the pulses and is allowed to evolve freely between pulses. Here, we evaluate the absorption spectrum of the three-level system in the ladder/cascade configuration when the bottom two levels are driven by a periodic pulse sequence while the transition between the middle and the highest level is probed by a weak field. The absorption spectrum displays similarities with the Autler-Townes doublet with frequency separation between the main peaks defined by the inter-pulse delay. In addition, this spectrum shows little dependence on the pulse carrier frequency. These results demonstrate the capacity to modulate the absorption spectrum of a three-level system with experimentally achievable pulse protocols.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.03188v1</guid>
+      <category>physics.app-ph</category>
       <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Jiawei Wang, Anthony Gullo, Kavya Velmurugan, Herbert F Fotso</dc:creator>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+      <arxiv:DOI>10.1063/5.0095972</arxiv:DOI>
+      <arxiv:journal_reference>Appl. Phys. Lett. 5 September 2022; 121 (10): 104002</arxiv:journal_reference>
+      <dc:creator>V. F. Gili, C. Piccinini, M. Safari Arabi, P. Kumar, V. Besaga, E. Brambila, M. Gr\"afe, T. Pertsch, F. Setzpfandt</dc:creator>
     </item>
   </channel>
 </rss>
