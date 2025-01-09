@@ -7,54 +7,25 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2025 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 05:00:08 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Wed, 08 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Thu, 09 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
     <item>
-      <title>Demonstration of Quantum Polarization Microscopy using an Entangled-Photon Source</title>
-      <link>https://arxiv.org/abs/2501.03478</link>
-      <description>arXiv:2501.03478v1 Announce Type: new 
-Abstract: With the advancement of non-classical light sources such as single-photon and entangled-photon sources, innovative microscopy based on the quantum principles has been proposed over traditional microscopy. This paper introduces the experimental demonstration of a quantum polarization microscopic technique that incorporates a quantum-entangled photon source. Although the point that employs the variation of polarization angle due to reflection or transmission at the sample is similar to classical polarization microscopy, the method for constructing image contrast is significantly different. Image contrast is constructed by the coincidence count of signal and idler photons. In the case that coincidence count is recorded from both the signal and idler photons, the photon statistics resemble a thermal state, similar to the blackbody radiation, but with a significantly higher peak intensity in the second order autocorrelation function at zero delay that is derived from coincidence count. While, when the coincidence count is taken from either the signal or idler photon only, though the photon state exhibits a thermal state again, the photon statistics become more dispersive and result in a lower peak intensity of the autocorrelation function. These different thermal states can be switched by slightly changing the photon polarization, which is suddenly aroused within narrow range of analyzer angle. This polarization microscopic technique can provide a superior imaging technique compared to the classical method, opening a new frontier for research in material sciences, biology, and other fields requiring high-resolution imaging.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.03478v1</guid>
+      <title>Cavity enhancement of V2 centers in 4H-SiC with a fiber-based Fabry-P\'erot microcavity</title>
+      <link>https://arxiv.org/abs/2501.04583</link>
+      <description>arXiv:2501.04583v1 Announce Type: new 
+Abstract: Silicon vacancy centers in 4H-silicon carbide (SiC) host a long-lived electronic spin and simultaneously possess spin-resolved optical transitions, making them a great candidate for implementing a spin-photon interface. These interfaces are an important building block of quantum networks, which in turn promise to enable secure communication and distributed quantum computing. To achieve this goal, the rate of coherently scattered photons collected from a single emitter needs to be maximized, which can be achieved by interfacing the emitter with an optical cavity. In this work, we integrate V2 centers inside a SiC membrane into a fiber-based Fabry-P\'erot microcavity. We find that SiC lends itself well to membrane fabrication, as evidenced by low surface roughness $\sigma_{\mathrm{RMS}}$ ~ 400 pm, high reproducibility, and consequentially a high cavity finesse F ~ 40 000. At cryogenic temperatures, we observe individual emitters coupling to cavity modes. We confirm their single-emitter character by measuring the second-order autocorrelation function and investigate the Purcell factor by measuring the optical lifetime as a function of the cavity-emitter detuning. We find a 13.3-fold enhancement of photons scattered into the zero-phonon line (ZPL), which could be further increased by using optimized mirror coatings, potentially opening the path towards deterministic spin-photon interaction.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.04583v1</guid>
       <category>quant-ph</category>
       <category>physics.optics</category>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Mousume Samad, Maki Shimizu, Yasuto Hijikata</dc:creator>
-    </item>
-    <item>
-      <title>Highly sensitive temperature sensing via quadratic optomechanical coupling</title>
-      <link>https://arxiv.org/abs/2501.03586</link>
-      <description>arXiv:2501.03586v1 Announce Type: new 
-Abstract: The effective frequency of a mechanical resonator can be tuned via the spring effect induced by quadratic optomechanical (QOM) coupling, and both spontaneous symmetry breaking and anti-parity-time phase transition were predicted in the QOM systems. Here, we show that the mechanical susceptibility can be enhanced significantly by driving the QOM system with a strong external optical field, and divergence will happen as the driving strength approaches the critical point (CP) for spontaneous symmetry breaking. Based on the CP, we propose a highly sensitive temperature sensor with a mechanical resonator quadratically coupled to an optical mode. We find that the sensitivity of the temperature sensor can be enhanced by several orders of magnitude as the driving strength approaches the CP, and the sensitivity of the temperature sensor remains high in the low-temperature limit. Our work provides an effective way to realize highly sensitive temperature sensing at ultra-low temperature in the QOM systems.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.03586v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
-      <dc:creator>Yu-Sheng Tang, Xun-Wei Xu, Jie-Qiao Liao, Hui Jing, Le-Man Kuang</dc:creator>
-    </item>
-    <item>
-      <title>Experimental realization of scanning quantum microscopy</title>
-      <link>https://arxiv.org/abs/2501.03617</link>
-      <description>arXiv:2501.03617v1 Announce Type: new 
-Abstract: Quantum imaging is an ever expanding research field, in which the aim is to exploit the quantum nature of light to enhance image reconstruction capabilities. Despite a number of successful demonstrations for quantum imaging, quantum microscopy still seems out of the range for practical applications, due to different physical and technical reasons. Here we propose an imaging method exploiting the quantum correlations of photon pairs and a scanning microscope to achieve fast, single mode quantum imaging. We first test our technique on a metal grating to estimate the resolution capabilities of our system. Moreover, we asses its potential in terms of the number of available independent pixels at full resolution compared to different quantum imaging approaches. Finally, we demonstrate scanning quantum microscopy of onion epithelial cells, paving the way towards scalable quantum microscopy for bio-physical applications. Our results, combined with the rapidly evolving photon-pair generation and detection technology towards the mid-infrared, could lead to an extension of quantum microscopy applications towards the mid-infrared, to access the molecular fingerprint region.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.03617v1</guid>
-      <category>quant-ph</category>
-      <category>physics.app-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
-      <arxiv:DOI>10.1063/5.0095972</arxiv:DOI>
-      <arxiv:journal_reference>Appl. Phys. Lett. 5 September 2022; 121 (10): 104002</arxiv:journal_reference>
-      <dc:creator>V. F. Gili, C. Piccinini, M. Safari Arabi, P. Kumar, V. Besaga, E. Brambila, M. Gr\"afe, T. Pertsch, F. Setzpfandt</dc:creator>
+      <dc:creator>Jannis Hessenauer, Jonathan K\"orber, Misagh Ghezellou, Jawad Ul-Hassan, Georgy V. Astakhov, Wolfgang Knolle, J\"org Wrachtrup, David Hunger</dc:creator>
     </item>
   </channel>
 </rss>
