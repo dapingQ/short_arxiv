@@ -7,25 +7,72 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jan 2025 05:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 05:00:09 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Thu, 09 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Fri, 10 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
-      <day>Saturday</day>
       <day>Sunday</day>
+      <day>Saturday</day>
     </skipDays>
     <item>
-      <title>Cavity enhancement of V2 centers in 4H-SiC with a fiber-based Fabry-P\'erot microcavity</title>
-      <link>https://arxiv.org/abs/2501.04583</link>
-      <description>arXiv:2501.04583v1 Announce Type: new 
-Abstract: Silicon vacancy centers in 4H-silicon carbide (SiC) host a long-lived electronic spin and simultaneously possess spin-resolved optical transitions, making them a great candidate for implementing a spin-photon interface. These interfaces are an important building block of quantum networks, which in turn promise to enable secure communication and distributed quantum computing. To achieve this goal, the rate of coherently scattered photons collected from a single emitter needs to be maximized, which can be achieved by interfacing the emitter with an optical cavity. In this work, we integrate V2 centers inside a SiC membrane into a fiber-based Fabry-P\'erot microcavity. We find that SiC lends itself well to membrane fabrication, as evidenced by low surface roughness $\sigma_{\mathrm{RMS}}$ ~ 400 pm, high reproducibility, and consequentially a high cavity finesse F ~ 40 000. At cryogenic temperatures, we observe individual emitters coupling to cavity modes. We confirm their single-emitter character by measuring the second-order autocorrelation function and investigate the Purcell factor by measuring the optical lifetime as a function of the cavity-emitter detuning. We find a 13.3-fold enhancement of photons scattered into the zero-phonon line (ZPL), which could be further increased by using optimized mirror coatings, potentially opening the path towards deterministic spin-photon interaction.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.04583v1</guid>
+      <title>Quantum undetected optical projection tomography</title>
+      <link>https://arxiv.org/abs/2501.05381</link>
+      <description>arXiv:2501.05381v1 Announce Type: new 
+Abstract: Quantum imaging with undetected photons (QIUP) is an emerging technique that decouples the processes of illuminating an object and projecting its image. The properties of the illuminating and detected light can thus be simultaneously optimised for both contrast on a sample and sensitivity on a camera. Here, we combine QIUP with computed tomography to enable three-dimensional (3D) infrared imaging. The image data is registered with a standard silicon camera at a wavelength of 810 nm, but the extracted 3D images map the sample's absorption at a wavelength of 1550 nm, well beyond the camera's sensitivity. Quantum Undetected Optical Projection Tomography (QUOPT) enables label-free volumetric sensing at difficult to detect wavelengths, such as those that allow molecular imaging contrast, or those within the infrared biological transmission windows.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.05381v1</guid>
       <category>quant-ph</category>
+      <category>physics.ins-det</category>
       <category>physics.optics</category>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Nathan R. Gemmell, Emma Pearce, Jefferson Florez, Rupert F. Oulton, Alex S. Clark, Chris C. Phillips</dc:creator>
+    </item>
+    <item>
+      <title>Photon State Evolution in Arbitrary Time-Varying Media</title>
+      <link>https://arxiv.org/abs/2501.04836</link>
+      <description>arXiv:2501.04836v1 Announce Type: cross 
+Abstract: We introduce the instantaneous eigenstate method to study the evolution of quantum states in media with arbitrary time-varying permittivity and permeability. This method leverages the Heisenberg equation to bypass the Schr\"odinger equation, which leads to a complicated infinite set of coupled differential equations. Instead, the method allows the computation of the state evolution by solving only two coupled differential equations. Using this approach, we draw general conclusions about photon statistics in time-varying media. Our findings reveal that the maximum probability of generating a single photon pair from vacuum in such media is $25\%$, while Bell states can be created with a maximum probability of $84\%$. Additionally, we demonstrate that the spectral profile of emitted photons can be precisely controlled through the temporal profiles of permittivity and permeability. These results provide deeper insights into photon state manipulation in time-varying media. Furthermore, the instantaneous eigenstate method opens new opportunities to study state evolution in other systems where the Heisenberg equation offers a more tractable solution than the Schr\"odinger equation.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.04836v1</guid>
+      <category>physics.optics</category>
+      <category>cond-mat.mes-hall</category>
+      <category>cond-mat.mtrl-sci</category>
+      <category>quant-ph</category>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Jannis Hessenauer, Jonathan K\"orber, Misagh Ghezellou, Jawad Ul-Hassan, Georgy V. Astakhov, Wolfgang Knolle, J\"org Wrachtrup, David Hunger</dc:creator>
+      <dc:creator>Artuur Stevens, Christophe Caloz</dc:creator>
+    </item>
+    <item>
+      <title>Photon-recycling dielectric laser accelerator</title>
+      <link>https://arxiv.org/abs/2501.05038</link>
+      <description>arXiv:2501.05038v1 Announce Type: cross 
+Abstract: We propose a photon-recycling dielectric laser accelerator (DLA) system based on silicon photonic device. Our DLA system employs guided electromagnetic waves as a primary energy source, modulated to inject into the electron-light interaction region to accelerate or modulate electron beams and recycled the energy for the next round-trip. Long-distance acceleration takes place as electrons interact with the pre-modulated light field. Our loop recycles post-interaction light field, enabling photons reuse across successive cycles. To optimize the interaction process, we developed an adaptive algorithm to refine waveguide structures, and identified an "optimal waveguide accelerator" with superior performance on our dataset. We find that the optimized DLA loop only requires low-power light injection to sufficiently sustain high acceleration gradients for continuous electron beams. Under optimal electron beam intensity, the system achieves exceptionally high photon utilization, ensuring that nearly all injected light power transferred to electrons. Using spectral analysis, we demonstrate that the optimal waveguide also operates as an electron energy filter, selecting and manipulating phase-matched electrons over a broad energy range, even for quantum electron wavefunction shaping. Our photon-recycling DLA setup is not only suitable for low-energy beam accelerators, but also offers versatility as a beam filter or a narrow energy selection combined with other optical elements, the total setup can be further applied to explore free electron quantum optics engaging with the advancing field of photonic integrated circuits.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.05038v1</guid>
+      <category>physics.optics</category>
+      <category>physics.acc-ph</category>
+      <category>physics.app-ph</category>
+      <category>physics.comp-ph</category>
+      <category>quant-ph</category>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Changying Li, Li Zhang, Dingguo Zheng, Xiaoping Liu, Yiming Pan</dc:creator>
+    </item>
+    <item>
+      <title>Design for light-based spherical aberration correction of ultrafast electron microscopes</title>
+      <link>https://arxiv.org/abs/2501.05157</link>
+      <description>arXiv:2501.05157v1 Announce Type: cross 
+Abstract: We theoretically demonstrate that ponderomotive interactions near the electron cross-over can be used for aberration correction in ultrafast electron microscopes. Highly magnified electron shadow images from Si$_3$N$_4$ thin films are utilized to visualize the distortions induced by spherical aberrations. Our simulations of electron-light interactions indicate that spherical aberrations can be compensated resulting in an aberration free angle of \SI{8.1}{mrad}. For achieving the necessary light distribution, we use a gradient descent algorithm to optimize Zernike polynomials and shape the light beam into a modified Gaussian and Laguerre-Gaussian beam.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.05157v1</guid>
+      <category>physics.optics</category>
+      <category>quant-ph</category>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <arxiv:DOI>10.1364/OE.542930</arxiv:DOI>
+      <arxiv:journal_reference>Opt. Express 33, 758-775 (2025)</arxiv:journal_reference>
+      <dc:creator>Marius Constantin Chirita Mihaila, Martin Koz\'ak</dc:creator>
     </item>
   </channel>
 </rss>
