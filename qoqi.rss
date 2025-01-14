@@ -7,67 +7,55 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2025 05:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 05:00:13 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Mon, 13 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Tue, 14 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
-      <day>Saturday</day>
       <day>Sunday</day>
+      <day>Saturday</day>
     </skipDays>
     <item>
-      <title>A simple model for entangled photon generation in resonant structures</title>
-      <link>https://arxiv.org/abs/2501.05516</link>
-      <description>arXiv:2501.05516v1 Announce Type: new 
-Abstract: The ability to engineer pairs of entangled photons is essential to quantum information science, and generating these states using spontaneous parametric down-conversion (SPDC) in nano- and micrometer-scale materials offers numerous advantages. To properly engineer such sources, a reliable model describing nano- and micrometer-scale SPDC is necessary; however, such a theoretical description remains a challenge. Here, we propose a simplified model to describe SPDC in resonant structures, which considers the generation of photon pairs and the resonant enhancement of spectral bands to be separate processes, even though they actually occur simultaneously. We compare our simplified model to both the rigorous theory of SPDC in an etalon - a simple example of a resonant structure - and our experiments on SPDC in etalons and find agreement for low-gain SPDC. By simplifying the calculations required to generate photon pairs, our model promises to make designing complex resonant structures easier, and it promises to hasten the iteration of designs across the field of quantum state engineering.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.05516v1</guid>
+      <title>Sensing the vibration of non-reflective surfaces with 10-dB-squeezed-light enhancement</title>
+      <link>https://arxiv.org/abs/2501.06313</link>
+      <description>arXiv:2501.06313v1 Announce Type: new 
+Abstract: Laser light with squeezed quantum uncertainty is a powerful tool for interferometric sensing. A routine application can be found in gravitational wave observatories. A significant quantum advantage is only achievable if a large fraction of the photons are actually measured. For this reason, quantum-enhanced vibrational measurements of strongly absorbing or scattering surfaces have not been considered so far. Here we demonstrate the strongly quantum-enhanced measurement of the frequency characteristics of surface vibrations in air by measuring the air pressure wave instead. Our squeezed laser beam, which simply passes the vibrating surface, delivers a sensitivity that an ultra-stable conventional light beam in the same configuration can only achieve with ten times the power. The pressure amplitude of a ultrasonic wave of just 0.12 mPa/ Hz was clearly visible with a spatial resolution in the millimetre range and a 1 kHz resolution bandwidth. We envision applications in sensor technology where distant, highly absorbing or optically inaccessible surface vibrations in air are to be measured with limited, e.g. eye-safe, light powers.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.06313v1</guid>
       <category>quant-ph</category>
+      <category>physics.app-ph</category>
       <category>physics.optics</category>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Nicholas J. Sorensen, Vitaliy Sultanov, Maria V. Chekhova</dc:creator>
+      <arxiv:DOI>10.1364/OPTICAQ.542186</arxiv:DOI>
+      <arxiv:journal_reference>Optica Quantum 3, 1-6 (2025)</arxiv:journal_reference>
+      <dc:creator>Pascal Gewecke, Jascha Zander, Roman Schnabel</dc:creator>
     </item>
     <item>
-      <title>Quantum Data Center Infrastructures: A Scalable Architectural Design Perspective</title>
-      <link>https://arxiv.org/abs/2501.05598</link>
-      <description>arXiv:2501.05598v1 Announce Type: new 
-Abstract: This paper presents the design of scalable quantum networks that utilize optical switches to interconnect multiple quantum processors, facilitating large-scale quantum computing. By leveraging these novel architectures, we aim to address the limitations of current quantum processors and explore the potential of quantum data centers. We provide an in-depth analysis of these architectures through the development of simulation tools and performance metrics, offering a detailed comparison of their advantages and trade-offs. We hope this work serves as a foundation for the development of efficient and resilient quantum networks, designed to meet the evolving demands of future quantum computing applications.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.05598v1</guid>
+      <title>A Multiplexed Programmable Quantum Photonic Network</title>
+      <link>https://arxiv.org/abs/2501.07272</link>
+      <description>arXiv:2501.07272v1 Announce Type: new 
+Abstract: Entanglement distribution in quantum networks will enable next-generation technologies for quantum-secured communications, distributed quantum computing and sensing. Future quantum networks will require dense connectivity, allowing multiple parties to share entangled states in a reconfigurable manner, while long-distance connections are established through the teleportation of entangled states, namely entanglement swapping. However, developing flexible physical platforms that can distribute entanglement through a high-capacity and scalable architecture remains a significant challenge. Here we realise a multiplexed programmable network where entanglement is routed and teleported between four parties through a reconfigurable multi-port circuit operating on the transverse-spatial photonic degree-of-freedom. We harness the natural mode-mixing process inside a multi-mode fibre and place it between two programmable phase planes to implement high-dimensional operations for two independent photons carrying eight transverse-spatial modes. This complex-medium-based circuit allows for the control of a four-party state where high-fidelity entangled states can be simultaneously distributed over multiple channels with different on-demand configurations. Our design allows us to break away from the limited planar geometry and bypass the control and fabrication challenges of conventional integrated platforms. Our demonstration showcases the potential of this architecture for enabling quantum networks with scalable and versatile connectivity that is fully compatible with existing communications infrastructure.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.07272v1</guid>
       <category>quant-ph</category>
       <category>physics.optics</category>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Natalia Herrera Valencia, Annameng Ma, Suraj Goel, Saroch Leedumrongwatthanakun, Francesco Graffitti, Alessandro Fedrizzi, Will McCutcheon, Mehul Malik</dc:creator>
+    </item>
+    <item>
+      <title>High-efficiency, high-count-rate 2D superconducting nanowire single-photon detector array</title>
+      <link>https://arxiv.org/abs/2501.07357</link>
+      <description>arXiv:2501.07357v1 Announce Type: new 
+Abstract: Superconducting nanowire single-photon detectors (SNSPDs) are the current leading technology for the detection of single-photons in the near-infrared (NIR) and short-wave infrared (SWIR) spectral regions, due to record performance in terms of detection efficiency, low dark count rate, minimal timing jitter, and high maximum count rates. The various geometry and design parameters of SNSPDs are often carefully tailored to specific applications, resulting in challenges in optimising each performance characteristic without adversely impacting others. In particular, when scaling to larger array formats, the key challenge is to manage the heat load generated by the many readout cables in the cryogenic cooling system. Here we demonstrate a practical, self-contained 64-pixel SNSPD array system which exhibits high performance of all operational parameters, for use in the strategically important SWIR spectral region. The detector is an 8x8 array of 27.5 x 27.8 {\mu}m pixels on a 30 {\mu}m pitch, which leads to an 80 -- 85% fill factor. At a wavelength of 1550nm, a uniform average per-pixel photon detection efficiency of 77.7% was measured and the observed system detection efficiency (SDE) across the entire array was 65%. A full performance characterisation is presented, including a dark count rate of 20 cps per pixel, full-width-half-maximum (FWHM) jitter of 100 ps per pixel, a 3-dB maximum count rate of 645 Mcps and no evidence of crosstalk at the 0.1% level. This camera system therefore facilitates a variety of picosecond time-resolved measurement-based applications that include biomedical imaging, quantum communications, and long-range single-photon light detection and ranging (LiDAR) and 3D imaging.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.07357v1</guid>
+      <category>quant-ph</category>
+      <category>physics.ins-det</category>
+      <category>physics.optics</category>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Hassan Shapourian, Eneet Kaur, Troy Sewell, Jiapeng Zhao, Michael Kilzer, Ramana Kompella, Reza Nejabati</dc:creator>
-    </item>
-    <item>
-      <title>Supercharging Single-Atom Traps by Collisional Blockade</title>
-      <link>https://arxiv.org/abs/2501.06162</link>
-      <description>arXiv:2501.06162v1 Announce Type: new 
-Abstract: Reconfigurable arrays of trapped single atoms are an excellent platform for the simulation of many-body physics and the realisation of high-fidelity quantum gates. The confinement of atoms is often achieved with focussed laser beams acting as optical dipole-force traps that allow for both static and dynamic positioning of atoms. In these traps, light-assisted collisions -- enhancing the two-atom loss rate -- ensure that single atom occupation of traps can be realised. However, the time-averaged probability of trapping a single atom is limited to $0.5$ when loading directly from a surrounding cloud of laser-cooled atoms, preventing deterministic filling of large arrays. In this work, we demonstrate that increasing the depth of a static, optical dipole trap enables the transition from fast loading on a timescale of $2.1\,$s to an extended trap lifetime of $7.9\,$s. This method demonstrates an achievable filling ratio of $(79\pm2)\,\%$ without the need of rearranging atoms to fill vacant traps.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.06162v1</guid>
-      <category>quant-ph</category>
-      <category>physics.atom-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Mark IJspeert, Naomi Holland, Benjamin Yuen, Axel Kuhn</dc:creator>
-    </item>
-    <item>
-      <title>Overcoming the surface paradox: Buried perovskite quantum dots in wide-bandgap perovskite thin films</title>
-      <link>https://arxiv.org/abs/2501.06061</link>
-      <description>arXiv:2501.06061v1 Announce Type: cross 
-Abstract: Colloidal perovskite quantum dots (PQDs) are an exciting platform for on-demand quantum, and classical optoelectronic and photonic devices. However, their potential success is limited by the extreme sensitivity and low stability arising from their weak intrinsic lattice bond energy and complex surface chemistry. Here we report a novel platform of buried perovskite quantum dots (b-PQDs) in a three-dimensional perovskite thin-film, fabricated using one-step, flash annealing, which overcomes surface related instabilities in colloidal perovskite dots. The b-PQDs demonstrate ultrabright and stable single-dot emission, with resolution-limited linewidths below 130 {\mu}eV, photon-antibunching (g^2(0)=0.1), no blinking, suppressed spectral diffusion, and high photon count rates of 10^4/s, consistent with unity quantum yield. The ultrasharp linewidth resolves exciton fine-structures (dark and triplet excitons) and their dynamics under a magnetic field. Additionally, b-PQDs can be electrically driven to emit single photons with 1 meV linewidth and photon-antibunching (g^2(0)=0.4). These results pave the way for on-chip, low-cost single-photon sources for next generation quantum optical communication and sensing.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.06061v1</guid>
-      <category>physics.optics</category>
-      <category>cond-mat.mtrl-sci</category>
-      <category>physics.med-ph</category>
-      <category>quant-ph</category>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Hao Zhang, Altaf Pasha, Isaac Metcalf, Jianlin Zhou, Mathias Staunstrup, Yunxuan Zhu, Shusen Liao, Ken Ssennyimba, Jia-Shiang Chen, Surya Prakash Reddy, Simon Th\'ebaud, Jin Hou, Xinting Shuai, Faiz Mandani, Siraj Sidhik, Matthew R. Jones, Xuedan Ma, R Geetha Balakrishna, Sandhya Susarla, David S. Ginger, Claudine Katan, Mercouri G. Kanatzidis, Moungi G. Bawendi, Douglas Natelson, Philippe Tamarat, Brahim Lounis, Jacky Even, Aditya D. Mohite</dc:creator>
+      <dc:creator>Fiona Fleming, Will McCutcheon, Emma E. Wollman, Andrew D. Beyer, Vikas Anant, Boris Korzh, Jason P. Allmaras, Lautaro Narv\'aez, Saroch Leedumrongwatthanakun, Gerald S. Buller, Mehul Malik, Matthew D. Shaw</dc:creator>
     </item>
   </channel>
 </rss>
