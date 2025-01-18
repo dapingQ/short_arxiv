@@ -7,109 +7,12 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jan 2025 05:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 05:00:02 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Fri, 17 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Sat, 18 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
-    <item>
-      <title>Observation of non-Markovian Radiative Phenomena in Structured Photonic Lattices</title>
-      <link>https://arxiv.org/abs/2501.09261</link>
-      <description>arXiv:2501.09261v1 Announce Type: new 
-Abstract: The spectral structure of a photonic reservoir shapes radiation phenomena for embedded quantum emitters. We implement an all-optical analogue to study such an effect, particularly to observe the non-Markovian radiation dynamics of an emitter coupled to two-dimensional structured reservoirs. Its dynamics is simulated by light propagating through a photonic lattice, acting as a reservoir for an adjacent waveguide that mimics a coupled quantum emitter. We study radiation dynamics in square and Lieb lattices under different coupling regimes and observe how the flat band properties of the Lieb lattice significantly enhances light-matter coupling and non-Markovianity. Our platform opens a path for the experimental exploration of single photon quantum optical phenomena in structured reservoirs to enhance light-matter interactions.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.09261v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Rodrigo A. Vicencio, Fabiola G. L. Carcamo-Macaya, Pablo Solano</dc:creator>
-    </item>
-    <item>
-      <title>Chiral Dissociation of Bound Photon Pairs for a Non-Hermitian Skin Effect</title>
-      <link>https://arxiv.org/abs/2501.09417</link>
-      <description>arXiv:2501.09417v1 Announce Type: new 
-Abstract: We theoretically study the bound states of interacting photons propagating in a waveguide chirally coupled to an array of atoms. We demonstrate that the bound photon pairs can concentrate at the edge of the array and link this to the non-Hermitian skin effect. Unlike tight-binding non-Hermitian setups, the bound states in the waveguide-coupled array exhibit infinite radiative lifetimes when the array has an infinite size. However, in a finite array, non-Hermiticity and localization of bound pairs emerge due to their chiral dissociation into scattering states. Counterintuitively, when the photons are preferentially emitted to the right, the bound pairs are localized at the left edge of the array and vice versa.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.09417v1</guid>
-      <category>quant-ph</category>
-      <category>cond-mat.mes-hall</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Jiaming Shi, Alexander N. Poddubny</dc:creator>
-    </item>
-    <item>
-      <title>From tomography of conditional states to tomography of states that never existed</title>
-      <link>https://arxiv.org/abs/2501.09424</link>
-      <description>arXiv:2501.09424v1 Announce Type: new 
-Abstract: Microscopic Schr{\"o}dinger cat states with photon numbers of the order of one are produced from stationary quantum-correlated fields exploiting a probabilistic heralding photon-subtraction event. The subsequent quantum state tomography provides the complete information about the state. Another approach targets measurement results on states with a significantly larger number of quantum-correlated photons by conditioning the analysis on measurement results with exactly this number of photons. Here, we present a new approach to derive measurement data of quantum correlated states with average quantum-correlated photon numbers significantly larger than one. We produce an ensemble of a heralded, photon-subtracted squeezed vacuum state of light. We split the states at a balanced beam splitter and simultaneously measure a pair of orthogonal field quadratures at the outputs using tomographic `Q-function homodyne detection' (QHD). The final act is probabilistic two-copy data post-processing aiming for data from a new state with larger photon number. Evaluating the final tomographic data as that of a grown microscopic Schr{\"o}dinger cat state shows that the probabilistic post-processing increased the photon number of $|\alpha_0|^2 \approx 1.2$ to $|\alpha_2|^2 \approx 6.8$. Our concept for obtaining tomographic measurement data of mesoscopic non-classical states that never existed might be a turning point in measurement-based quantum technology.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.09424v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Julian G\"ottsch, Stephan Grebien, Felix Pein, Malte Lautzas, Daniela Abdelkhalek, Lorena Reb\'on, Boris Hage, Jarom\'ir Fiura\v{s}ek, Roman Schnabel</dc:creator>
-    </item>
-    <item>
-      <title>Quantum Diffie-Hellman key exchange</title>
-      <link>https://arxiv.org/abs/2501.09568</link>
-      <description>arXiv:2501.09568v1 Announce Type: new 
-Abstract: The Diffie-Hellman key exchange plays a crucial role in conventional cryptography, as it allows two legitimate users to establish a common, usually ephemeral, secret key. Its security relies on the discrete-logarithm problem, which is considered to be a mathematical one-way function, while the final key is formed by random independent actions of the two users. In the present work we investigate the extension of Diffie-Hellman key exchange to the quantum setting, where the two legitimate users exchange independent random quantum states. The proposed protocol relies on the bijective mapping of integers onto a set of symmetric coherent states, and we investigate the regime of parameters for which the map behaves as a quantum one-way function. Its security is analyzed in the framework of minimum-error-discrimination and photon-number-splitting attacks, while its performance and the challenges in a possible realization are also discussed.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.09568v1</guid>
-      <category>quant-ph</category>
-      <category>cs.CR</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <arxiv:DOI>10.1063/5.0242473</arxiv:DOI>
-      <arxiv:journal_reference>APL Quantum 2, 016107 (2025)</arxiv:journal_reference>
-      <dc:creator>Georgios M. Nikolopoulos</dc:creator>
-    </item>
-    <item>
-      <title>Surface Plasmon-Enhanced X-ray Ultraviolet Nonlinear Interactions</title>
-      <link>https://arxiv.org/abs/2501.09569</link>
-      <description>arXiv:2501.09569v1 Announce Type: cross 
-Abstract: X ray matter interactions are intrinsically weak, and the high energy and momentum of X rays pose significant challenges to applying strong light matter coupling techniques that are highly effective at longer wavelengths for controlling and manipulating radiation. Techniques such as enhanced coupling between light and electrons at a metal dielectric interface or within nanostructures, as well as the Purcell effect where spontaneous emission is amplified near a metallic surface are not applicable to X rays due to their fundamentally different energy and momentum scales. Here we present a novel approach for coupling X rays to surface plasmon polaritons by entangling X ray photons with SPPs in the ultraviolet range through X ray to UV spontaneous parametric down conversion in aluminum. The distinct characteristics of the SPPs are imprinted onto the angular and energy dependence of the detected X ray photons, as demonstrated in this work. Our results highlight the potential to control X rays using SPPs, unlocking exciting opportunities to enhance X ray matter interactions and explore plasmonic phenomena with atomic scale resolution a capability uniquely enabled by X rays.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.09569v1</guid>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>H. Aknin, O. Sefi, D. Borodin, J. -P. Rueff, J. M. Ablett, S. Shwartz</dc:creator>
-    </item>
-    <item>
-      <title>Fabrication of Mode-Matched, Low-Loss Optical Resonators by Combination of FIB-Milling and CO$_2$ Laser Ablation</title>
-      <link>https://arxiv.org/abs/2501.09577</link>
-      <description>arXiv:2501.09577v1 Announce Type: cross 
-Abstract: Fabry-Perot cavities are essential tools for applications like precision metrology, optomechanics and quantum technologies. A major challenge is the creation of microscopic spherical mirror structures which allow the precise matching with the wavefront of a Gaussian beam, while providing high surface quality. We present a novel fabrication technique, enabling the creation of customized microscopic Gaussian mode matched cavity mirror structures over a wide range of geometrical parameters, by combining focused ion beam milling (FIB) and CO$_2$ laser ablation. While FIB milling allows us to imprint features on the mirror substrate with a resolution on the nanometer scale, the application of defocused CO$_2$ laser pulses consistently reduces remaining surface deformations down to a roughness of $\sigma_\text{RMS}=0.2\,$nm. The average deviation of the profile from an ideal spherical shape is kept below a few nanometres. This technique enables the customized and repeatable fabrication of low loss optics on a wide range of optical substrates, including optical fibres. Thus, mode-matched Fabry-Perot cavities can be fabricated with pre-defined modal volume, high finesse and tailored ellipticity. Since the structural shape of the mirror is created by FIB milling, its pixel-by-pixel nature of the writing process can be used to create arbitrary structures with a resolution given by the FIB milling. At the same time, the surface quality is given by the CO$_2$ laser ablation processes, without degrading the FIB milled shape.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.09577v1</guid>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
-      <dc:creator>Patrick Maier, Simon Rupp, Niklas Lettner, Johannes Hecker Denschlag, Alexander Kubanek</dc:creator>
-    </item>
-    <item>
-      <title>Bidirectional microwave-optical conversion using an integrated barium-titanate transducer</title>
-      <link>https://arxiv.org/abs/2501.09728</link>
-      <description>arXiv:2501.09728v1 Announce Type: cross 
-Abstract: Efficient, low-noise, high-bandwidth transduction between optical and microwave photons is key to long-range quantum communication between distant superconducting quantum processors. Recent demonstrations of microwave-optical tranduction using the broadband direct electro-optic (Pockels) effect in optical thin films made of AlN or LiNbO$_3$ have shown promise. Due to the quadratic scaling of transduction efficiency with the electro-optic coefficient, material classes with stronger Pockels effects, such as the perovskite titanates BaTiO$_3$ or SrTiO$_3$, may unlock new performance regimes for future transducers. However, these materials require adapted designs and fabrication approaches due to their nonlinear and, in some cases, hysteretic electro-optic response, as well as limited process compatibility. Here, we engineer an on-chip, triply resonant transducer comprising low-loss BaTiO$_3$-on-SiO$_2$ waveguides monolithically integrated with a superconducting microwave resonator made of Nb. Exploiting the bias-induced Pockels effect of BaTiO$_3$, we demonstrate bidirectional microwave-optical transduction at millikelvin temperatures and total off-chip efficiencies reaching $1\times10^{-6}$ in pulsed operation. We establish a device concept permitting in-situ poling of the ferroelectric material without introducing excess microwave loss and tuning of the optical system without sacrificing microwave-optical overlap. Using a fully subtractive process, we fabricate Nb air bridges for crossings of conductors and both air- and oxide-clad optical waveguides. We investigate optically-induced heating through pulsed optical pumping, revealing fast thermalization and quasiparticle resilience of the microwave resonator. Our transducer concept is applicable to other materials with a large bias-induced Pockels effect and paves the way for efficient, low-power quantum interconnects.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.09728v1</guid>
-      <category>physics.optics</category>
-      <category>cond-mat.mes-hall</category>
-      <category>physics.app-ph</category>
-      <category>quant-ph</category>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Charles M\"ohl, Annina Riedhauser, Max Glantschnig, Daniele Caimi, Ute Drechsler, Antonis Olziersky, Deividas Sabonis, David Indolese, Thomas Karg, Paul Seidler</dc:creator>
-    </item>
   </channel>
 </rss>
