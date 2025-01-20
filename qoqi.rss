@@ -7,12 +7,83 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jan 2025 05:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 05:00:02 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Sun, 19 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Mon, 20 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
+    <item>
+      <title>An Overview of CV-MDI-QKD</title>
+      <link>https://arxiv.org/abs/2501.09818</link>
+      <description>arXiv:2501.09818v1 Announce Type: new 
+Abstract: As quantum key distribution (QKD) emerges as a robust defense against quantum computer threats, significant advancements have been realized by researchers. A pivotal focus has been the development of protocols that not only simplify hardware implementation like the use of continuous-variable (CV) systems, but also negate the necessity for trusted nodes, as seen with the measurement-device independent (MDI) approach. This paper delves into the integration of these methodologies in the CV-MDI-QKD protocol, offering an in-depth exploration of its evolution, primary characteristics, and the latest advancements in both theory and experiment.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.09818v1</guid>
+      <category>quant-ph</category>
+      <category>cond-mat.other</category>
+      <category>physics.app-ph</category>
+      <category>physics.optics</category>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Alasdair I. Fletcher, Cillian Harney, Masoud Ghalaii, Panagiotis Papanastasiou, Alexandros Mountogiannakis, Gaetana Spedalieri, Adnan A. E. Hajomer, Tobias Gehring, Stefano Pirandola</dc:creator>
+    </item>
+    <item>
+      <title>Finite-size security of continuous-variable quantum key distribution with imperfect heterodyne measurement</title>
+      <link>https://arxiv.org/abs/2501.10278</link>
+      <description>arXiv:2501.10278v1 Announce Type: new 
+Abstract: Continuous-variable quantum key distribution (CVQKD) using coherent states and heterodyne detection enables secure quantum communication based on technology that has large similarities to coherent optical telecommunication. Yet, practical implementations of coherent receivers used in both technologies encounter device imperfections, which for CVQKD are often not addressed in security proofs. Here, we present a theoretical framework that rigorously accounts for imperfect heterodyne measurements arising from phase imbalances in the coherent (heterodyne) receiver. Focusing on collective attacks, we establish a finite-size security proof that reveals how measurement imperfections limit the distance over which a positive key rate is achievable. To mitigate these effects, we propose a local transformation during classical post-processing. We validate our approach experimentally on a CVQKD system with an imperfect coherent receiver, underscoring its potential for scalable, cost-effective CVQKD with photonic integrated receivers in which phase-imbalances naturally appear through manufacturing tolerances.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.10278v1</guid>
+      <category>quant-ph</category>
+      <category>physics.optics</category>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Adnan A. E. Hajomer, Akash Nag Oruganti, Ivan Derkach, Ulrik L Andersen, Vladyslav C Usenko, Tobias Gehring</dc:creator>
+    </item>
+    <item>
+      <title>Observation of single-photon azimuthal backflow with weak measurement</title>
+      <link>https://arxiv.org/abs/2501.09952</link>
+      <description>arXiv:2501.09952v1 Announce Type: cross 
+Abstract: Quantum backflow, a counterintuitive interference phenomenon where particles with positive momentum can propagate backward, is important in applications involving light-matter interactions. To date, experimental demonstrations of backflow have been restricted to classical optical systems, where momentum is measured using the slit scanning technique or the Shack-Hartmann wavefront sensor technique. However, these techniques have low spatial resolution due to limitations in slit width and Fourier transform lenslet array density. Here, by adopting the technique of weak measurement, we report an observation of azimuthal backflow both theoretically and experimentally. Our results show that a heralded single photon, prepared in specific superposition states with solely negative orbital angular momentum (OAM), exhibits positive OAM. The effects of mode ratio, propagation distance and OAM index on the azimuthal backflow are systematically investigated. Our method avoids using slits and lenslet arrays, allowing for the accurate extraction of photon momentum at each pixel. This work provides new insights and techniques for observing and manipulating backflow in quantum systems.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.09952v1</guid>
+      <category>physics.optics</category>
+      <category>quant-ph</category>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <arxiv:DOI>10.1364/OL.540905</arxiv:DOI>
+      <arxiv:journal_reference>Optics Letters 50(2):333-336-Published 2 January,2025</arxiv:journal_reference>
+      <dc:creator>Zhen-Fei Zhang, Peng-Fei Huang, Shan-Chuan Dong, Yan-Xin Rong, Jin-Shi Xu, Yong-Jian Gu, Ya Xiao</dc:creator>
+    </item>
+    <item>
+      <title>Intense Laser-Driven Phenomena In Weyl Semimetals</title>
+      <link>https://arxiv.org/abs/2501.10293</link>
+      <description>arXiv:2501.10293v1 Announce Type: cross 
+Abstract: Condensed-matter provides attractive platforms to realize exotic particles, originally proposed in high-energy physics. Weyl semimetal (WSM) is a material in which low-energy collective excitations are governed by massless Weyl fermions, which appear in pairs of opposite chirality and are topologically protected. Thus, the discovery of topological materials such as WSM has heralded a new era in contemporary physics. Moreover, these materials offer exciting opportunities in next-generation signal processing and optoelectronics. This thesis explores different facets of the intense laser-driven phenomena in WSM for applications in emerging lightwave-driven Petahertz electronics and quantum technologies.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.10293v1</guid>
+      <category>cond-mat.mes-hall</category>
+      <category>physics.optics</category>
+      <category>quant-ph</category>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Amar Bharti</dc:creator>
+    </item>
+    <item>
+      <title>Purcell-Enhanced, Directional Light-Matter Interaction in a Waveguide-Coupled Nanocavity</title>
+      <link>https://arxiv.org/abs/2501.10351</link>
+      <description>arXiv:2501.10351v1 Announce Type: cross 
+Abstract: We demonstrate electrically tunable, spin-dependent, directional coupling of single photons by embedding quantum dots (QDs) in a waveguide-coupled nanocavity. The directional behavior arises from direction-dependent interference between two cavity modes when coupled to the device waveguides. The small mode volume cavity enables simultaneous Purcell enhancement (${10.8\pm0.7}$) and peak directional contrast (${88\pm1\%}$), exceeding current state-of-the-art waveguide-only systems. We also present a scattering matrix model for the transmission through this structure, alongside a quantum trajectory-based model for predicting the system's directionality, which we use to explain the observed asymmetry in directional contrast seen in QD devices. Furthermore, the nanocavity enables wide-range electrical tuning of the emitter's directional contrast. We present results showing precise tuning of a QD emission line from a directional contrast of ${2\%}$ to ${96\%}$. In combination, these characteristics make this cavity-waveguide approach promising for use as a building block in directional nanophotonic circuits.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.10351v1</guid>
+      <category>physics.optics</category>
+      <category>physics.app-ph</category>
+      <category>quant-ph</category>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Nicholas J. Martin, Dominic Hallett, Mateusz Duda, Luke Hallacy, Elena Callus, Luke Brunswick, Ren\'e Dost, Edmund Clarke, Pallavi K. Patil, Pieter Kok, Maurice S. Skolnick, Luke R. Wilson</dc:creator>
+    </item>
   </channel>
 </rss>
