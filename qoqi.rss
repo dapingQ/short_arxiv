@@ -7,12 +7,94 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jan 2025 05:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 05:00:08 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Tue, 21 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Wed, 22 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
-      <day>Saturday</day>
       <day>Sunday</day>
+      <day>Saturday</day>
     </skipDays>
+    <item>
+      <title>Two-photon Interference of Biphotons Emitted by Overlapping Resonances in Metasurfaces</title>
+      <link>https://arxiv.org/abs/2501.11850</link>
+      <description>arXiv:2501.11850v1 Announce Type: new 
+Abstract: Two-photon interference, a quantum phenomenon arising from the principle of indistinguishability, is a powerful tool for quantum state engineering and plays a fundamental role in various quantum technologies. These technologies demand robust and efficient sources of quantum light, as well as scalable, integrable and multifunctional platforms. In this regard, quantum optical metasurfaces (QOMs) are emerging as promising platforms for quantum light generation, namely biphotons via spontaneous parametric down-conversion (SPDC), and its engineering. Due to the relaxation of phase matching, SPDC in QOMs allows different channels of biphoton generation, such as those supported by overlapping resonances, to occur simultaneously. In previously reported QOMs, however, SPDC was too weak to observe such effects. Here we develop QOMs based on [110]-oriented GaAs that provide more than an order of magnitude enhancement in SPDC rate, after accounting for the spectral bandwidth, compared to any other QOMs studied to date. This boosted efficiency allows the QOMs support the simultaneous generation of SPDC from several spectrally overlapping optical modes. Using polarization components in the interferometer analyzer, we intentionally erase the distinguishability between the biphotons from a high-$Q$ quasi-bound-state-in-the-continuum resonance and a low-$Q$ Mie resonance, which results in the first-time observation of two-photon interference in the spectral domain in these types of devices. This quantum interference can considerably enrich the generation of entangled photons in metasurfaces. Their advanced multifunctionality, improved nonlinear response, ease of fabrication and compact footprint of [110]-GaAs QOMs position them as promising platforms to fulfill the requirements for photonic quantum technologies.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.11850v1</guid>
+      <category>quant-ph</category>
+      <category>physics.optics</category>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Jiho Noh, Tom\'as Santiago-Cruz, Chloe F. Doiron, Hyunseung Jung, Jaeyeon Yu, Sadhvikas J. Addamane, Maria V. Chekhova, Igal Brener</dc:creator>
+    </item>
+    <item>
+      <title>A Generalized Schawlow-Townes Limit</title>
+      <link>https://arxiv.org/abs/2501.11861</link>
+      <description>arXiv:2501.11861v1 Announce Type: new 
+Abstract: We study a class of a feedback oscillators realized by a phase-insensitive amplifier in positive feedback, where either the amplifier or the feedback element may determine the oscillator's linewidth. The spectral purity of the output of such a device originates from basic demands of quantum mechanics and causality. The resulting expression generalizes the Schawlow-Townes limit, which is itself one component of a standard quantum limit for feedback oscillators. Recently realized bad-cavity oscillators such as super-radiant lasers and solid-state masers can saturate this generalized Schawlow-Townes limit. This limit can be surpassed through appropriate quantum engineering: for example by atomic spin squeezing in a super-radiant laser.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.11861v1</guid>
+      <category>quant-ph</category>
+      <category>physics.atom-ph</category>
+      <category>physics.optics</category>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Hudson A. Loughlin, Vivishek Sudhir</dc:creator>
+    </item>
+    <item>
+      <title>Time-optimal transfer of the quantum state in long qubit arrays</title>
+      <link>https://arxiv.org/abs/2501.11933</link>
+      <description>arXiv:2501.11933v1 Announce Type: new 
+Abstract: Recent technological advances have allowed the fabrication of large arrays of coupled qubits serving as prototypes of quantum processors. However, the optimal control of such systems is notoriously hard, which limits the potential of large-scale quantum systems. Here, we investigate a model problem of quantum state transfer in a large nearest-neighbor-coupled qubit array and derive an optimal control that simultaneously enables maximal fidelity and minimal time of the transfer.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.11933v1</guid>
+      <category>quant-ph</category>
+      <category>cond-mat.mes-hall</category>
+      <category>physics.optics</category>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Andrei A. Stepanenko, Kseniia S. Chernova, Maxim A. Gorlach</dc:creator>
+    </item>
+    <item>
+      <title>State Transfer in Latent-Symmetric Networks</title>
+      <link>https://arxiv.org/abs/2501.12185</link>
+      <description>arXiv:2501.12185v1 Announce Type: new 
+Abstract: The transport of quantum states is a crucial aspect of information processing systems, facilitating operations such as quantum key distribution and inter-component communication within quantum computers. Most quantum networks rely on symmetries to achieve an efficient state transfer. A straightforward way to design such networks is to use spatial symmetries, which severely limits the design space. Our work takes a novel approach to designing photonic networks that do not exhibit any conventional spatial symmetries, yet nevertheless support an efficient transfer of quantum states. Paradoxically, while a perfect transfer efficiency is technically unattainable in these networks, a fidelity arbitrarily close to unity is always reached within a finite time of evolution. Key to this approach are so-called latent, or 'hidden', symmetries, which are embodied in the spectral properties of the network. Latent symmetries substantially expand the design space of quantum networks and hold significant potential for applications in quantum cryptography and secure state transfer. We experimentally realize such a nine-site latent-symmetric network and successfully observe state transfer between two sites with a measured fidelity of 75%. Furthermore, by launching a two-photon state, we show that quantum interference is preserved by the network. This demonstrates that the latent symmetries enable efficient quantum state transfer, while offering greater flexibility in designing quantum networks.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.12185v1</guid>
+      <category>quant-ph</category>
+      <category>physics.optics</category>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Jonas Himmel, Max Ehrhardt, Matthias Heinrich, Sebastian Weidemann, Tom A. W. Wolterink, Malte R\"ontgen, Peter Schmelcher, Alexander Szameit</dc:creator>
+    </item>
+    <item>
+      <title>Decoherence of Schr\"odinger cat states in light of wave/particle duality</title>
+      <link>https://arxiv.org/abs/2501.12328</link>
+      <description>arXiv:2501.12328v1 Announce Type: new 
+Abstract: We challenge the standard picture of decohering Schr\"odinger cat states as an ensemble average obeying a Lindblad master equation, brought about locally from an irreversible interaction with an environment. We generate self-consistent collections of pure system states correlated with specific environmental records, corresponding to the function of the wave-particle correlator first introduced in Carmichael {\it et al.} [Phys. Rev. Lett. 85, 1855 (2000)]. In the spirit of Carmichael {\it et al.} [Coherent States: Past, Present and Future, pp. 75--91, World Scientific (1994)], we find that the complementary unravelings evince a pronounced disparity when the ``position'' and ``momentum'' of the damped cavity mode -- an explicitly open quantum system -- are measured. Intensity-field correlations may largely deviate from a monotonic decay, while Wigner functions of the cavity state display contrasting manifestations of quantum interference when conditioned on photon counts sampling a continuous photocurrent. In turn, the conditional photodetection events mark the contextual diffusion of both the net charge generated at the homodyne detector, and the electromagnetic field amplitude in the resonator.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.12328v1</guid>
+      <category>quant-ph</category>
+      <category>cond-mat.mes-hall</category>
+      <category>physics.optics</category>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Th. K. Mavrogordatos</dc:creator>
+    </item>
+    <item>
+      <title>Superheterodyne Rydberg S-band receiver with a multi-tone local oscillator based on an atomic transition loop</title>
+      <link>https://arxiv.org/abs/2501.11418</link>
+      <description>arXiv:2501.11418v1 Announce Type: cross 
+Abstract: Atomic-vapor sensors based on Rydberg atoms now face a transition towards practical applications, with several outstanding challenges. To achieve the best sensitivities, a superheterodyne mode of operation is desired, which requires the presence of a local oscillator in the vapor cell. This local oscillator hinders several advantages of the sensor, such as stealthy and all-optical operation. We propose and realize a detection scheme, which avoids some of those problems by using multi-tone mixing, where direct usage of the local oscillator at the same frequency is not required. Our scheme is further elaborated on using efficient theoretical methods to predict the performance of the sensor. Our sensor operates at the S-band frequency, known for its usage in IEEE 802.11 (Wi-Fi) networks, without interfering with the signal itself.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.11418v1</guid>
+      <category>physics.optics</category>
+      <category>physics.atom-ph</category>
+      <category>quant-ph</category>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Jan Nowosielski, Mateusz Mazelanik, Wojciech Wasilewski, Micha{\l} Parniak</dc:creator>
+    </item>
   </channel>
 </rss>
