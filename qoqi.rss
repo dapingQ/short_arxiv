@@ -7,80 +7,12 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jan 2025 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 05:00:11 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Thu, 23 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Fri, 24 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
-      <day>Sunday</day>
       <day>Saturday</day>
+      <day>Sunday</day>
     </skipDays>
-    <item>
-      <title>Is there a conflict between causality and diamagnetism?</title>
-      <link>https://arxiv.org/abs/2501.13098</link>
-      <description>arXiv:2501.13098v1 Announce Type: new 
-Abstract: There is a long-standing apparent conflict between the existence of diamagnetism and causality as expressed through the Kramers-Kronig relations. In essence, using causality arguments, along with a handful of other seemingly well-justified assumptions, one can show that diamagnetism is impossible. Nature naturally does not mind this, and experiments show diamagnetic responses from magnetic media. We present a resolution to this issue, which also explains the absence of observed dia-electric responses in optical media.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.13098v1</guid>
-      <category>quant-ph</category>
-      <category>cond-mat.mtrl-sci</category>
-      <category>cond-mat.other</category>
-      <category>physics.optics</category>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Niclas Westerberg, Stephen M. Barnett</dc:creator>
-    </item>
-    <item>
-      <title>Tunable extraordinary optical transmission for integrated photonics</title>
-      <link>https://arxiv.org/abs/2501.12476</link>
-      <description>arXiv:2501.12476v1 Announce Type: cross 
-Abstract: The propagation of light through opaque materials, served by periodic arrays of subwavelength holes, has revolutionized imaging and sensor technology with a breakthrough of extraordinary optical transmission (EOT). The enhanced optical transmission assisted by surface plasmon resonances (SPR) has become the most ingenious phenomenon in the field of light-matter interaction. Active tuning of SPR presents a new and simple way to control spectral features of the EOT signal (without the need to change the geometrical structure of the device). This provides a new possibility to integrate an active EOT device with tunable operational frequencies on a single chip of photonic integrated circuits (PIC)- a new scalable instrument in the optoelectronic industry, and quantum technology for improving subwavelength optical imaging and biomedical sensing. In this review, we discuss the fundamentals of EOT, the role of SPR, and how the active quantum plasmonic control of the EOT device makes it a feasible on-chip electro-optic programmable element for integrated photonics.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.12476v1</guid>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Hira Asif, Ramazan Sahin</dc:creator>
-    </item>
-    <item>
-      <title>Quantum Emitters in Hexagonal Boron Nitride: Principles, Engineering and Applications</title>
-      <link>https://arxiv.org/abs/2501.12677</link>
-      <description>arXiv:2501.12677v1 Announce Type: cross 
-Abstract: Solid-state quantum emitters, molecular-sized complexes releasing a single photon at a time, have garnered much attention owing to their use as a key building block in various quantum technologies. Among these, quantum emitters in hexagonal boron nitride (hBN) have emerged as front runners with superior attributes compared to other competing platforms. These attributes are attainable thanks to the robust, two-dimensional lattice of the material formed by the extremely strong B-N bonds. This review discusses the fundamental properties of quantum emitters in hBN and highlights recent progress in the field. The focus is on the fabrication and engineering of these quantum emitters facilitated by state-of-the-art equipment. Strategies to integrate the quantum emitters with dielectric and plasmonic cavities to enhance their optical properties are summarized. The latest developments in new classes of spin-active defects, their predicted structural configurations, and the proposed suitable quantum applications are examined. Despite the current challenges, quantum emitters in hBN have steadily become a promising platform for applications in quantum information science.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.12677v1</guid>
-      <category>cond-mat.mtrl-sci</category>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Thi Ngoc Anh Mai, Md Shakhawath Hossain, Nhat Minh Nguyen, Yongliang Chen, Chaohao Chen, Xiaoxue Xu, Quang Thang Trinh, Toan Dinh, Toan Trong Tran</dc:creator>
-    </item>
-    <item>
-      <title>Bright single-photon source in a silicon chip by nanoscale positioning of a color center in a microcavity</title>
-      <link>https://arxiv.org/abs/2501.12744</link>
-      <description>arXiv:2501.12744v1 Announce Type: cross 
-Abstract: We present an all-silicon source of near-infrared linearly-polarized single photons, fabricated by nanoscale positioning of a color center in a silicon-on-insulator microcavity. The color center consists of a single W center, created at a well-defined position by Si$^{+}$ ion implantation through a 150 nm-diameter nanohole in a mask. A circular Bragg grating cavity resonant with the W's zero-phonon line at 1217 nm is fabricated at the same location as the nanohole. Under above-gap continuous-wave excitation, a very clean photon antibunching behavior ($g{^2} \leq 0.06$) is observed over the entire power range, which highlights the absence of parasitic emitters. Purcell-enhancement of W's zero-phonon emission provides both a record-high photoluminescence count rate among Si color centers (ca $1.2 \times 10^{6}$ counts/s) and apparent Debye-Waller factor around 99%. We also demonstrate the triggered emission of single photons with 93% purity under weak pulsed laser excitation. At high pulsed laser power, we reveal a detrimental effect of repumping processes, that could be mitigated using selective pumping schemes in the future. These results represent a major step towards on-demand sources of indistinguishable near-infrared single photons within silicon photonics chips.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.12744v1</guid>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Baptiste Lefaucher (Univ. Grenoble Alpes, CEA, Grenoble INP, IRIG, PHELIQS), Yoann Baron (Univ. Grenoble Alpes, CEA-LETI), Jean-Baptiste Jager (Univ. Grenoble Alpes, CEA, Grenoble INP, IRIG, PHELIQS), Vincent Calvo (Univ. Grenoble Alpes, CEA, Grenoble INP, IRIG, PHELIQS), Christian Els\"asser (Univ. Grenoble Alpes, CEA, Grenoble INP, IRIG, PHELIQS), Giuliano Coppola (Univ. Grenoble Alpes, CEA, Grenoble INP, IRIG, PHELIQS), Fr\'ed\'eric Mazen (Univ. Grenoble Alpes, CEA-LETI), S\'ebastien Kerdil\`es (Univ. Grenoble Alpes, CEA-LETI), F\'elix Cache (Laboratoire Charles Coulomb, Universit\'e de Montpellier,CNRS), Ana\"is Dr\'eau (Laboratoire Charles Coulomb, Universit\'e de Montpellier,CNRS), Jean-Michel G\'erard (Univ. Grenoble Alpes, CEA, Grenoble INP, IRIG, PHELIQS)</dc:creator>
-    </item>
-    <item>
-      <title>Eigenmodes of latent-symmetric quantum photonic networks</title>
-      <link>https://arxiv.org/abs/2501.13029</link>
-      <description>arXiv:2501.13029v1 Announce Type: cross 
-Abstract: We investigate the impact of latent symmetries on the dynamics of photonic systems and their eigenmodes. Residing solely within the eigenspectral domain, latent symmetries are not visible in real space, yet promise intriguing new ways to engineer the functionality of photonic systems. We study the eigenmodes of a 9-site latent-symmetric photonic network and find that an anti-symmetric input state is fundamentally precluded from populating so-called singlet sites. Furthermore, arbitrary extensions of the system at these sites do not break its latent symmetry. Therefore anti-symmetric excitations cannot leave the initial system, which can be leveraged e.g. for the storage of information. This holds true for both single-photon states, or classical light, as well as both distinguishable and indistinguishable two-photon quantum states. Latent symmetries introduce a powerful new set of tools to the design of systems with desired functionality on any nanophotonic platform, paving the way for applications in photonic information processing.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.13029v1</guid>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Jonas Himmel, Max Ehrhardt, Matthias Heinrich, Malte R\"ontgen, Alexander Szameit, Tom A. W. Wolterink</dc:creator>
-    </item>
   </channel>
 </rss>
