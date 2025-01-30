@@ -7,113 +7,107 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jan 2025 05:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 05:00:02 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Wed, 29 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
     <item>
-      <title>Tunable quantum light by modulated free electrons</title>
-      <link>https://arxiv.org/abs/2501.16771</link>
-      <description>arXiv:2501.16771v1 Announce Type: new 
-Abstract: Nonclassical states of light are fundamental in various applications, spanning quantum computation to enhanced sensing. Fast free electrons, which emit light into photonic structures through the mechanism of spontaneous emission, represent a promising platform for generating diverse types of states. Indeed, the intrinsic connection between the input electron wave function and the output light field suggests that electron-shaping schemes, based on light-induced scattering, facilitates their synthesis. In this article, we present a theoretical framework capable of predicting the final optical density matrix of a generic N-electron state that can also account for post-sample energy filtering. By using such framework, we study the modulation-dependent fluctuations of the N-electron emission and identify regions of Poissonian and super-Poissonian statistics. In the single-electron case, we show how coherent states with nearly 90% purity can be formed by pre-filtering a portion of the spectrum after modulation, and how non-Gaussian states are generated after a precise energy measurement. Furthermore, we present a strategy combining a single-stage electron modulation and post-filtering to harness tailored light states, such as squeezed vacuum, cat, and triangular cat states, with fidelity close to 100%.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.16771v1</guid>
-      <category>quant-ph</category>
-      <category>cond-mat.other</category>
-      <category>physics.optics</category>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by-sa/4.0/</dc:rights>
-      <dc:creator>Valerio Di Giulio, Rudolf Haindl, Claus Ropers</dc:creator>
-    </item>
-    <item>
-      <title>Electron dynamics induced by quantum cat-state light</title>
-      <link>https://arxiv.org/abs/2501.16801</link>
-      <description>arXiv:2501.16801v1 Announce Type: new 
-Abstract: We present an effective theory for describing electron dynamics driven by an optical external field in a Schr\"{o}dinger's cat state. We show that the electron density matrix evolves as an average over trajectories $\{\rho_\alpha\}$ weighted by the Sudarshan--Glauber $P$ distribution $P(\alpha)$ in the weak light--matter coupling regime. Each trajectory obeys an equation of motion, $\mathrm{i} \partial_t\rho_\alpha=\mathcal{H}_{\alpha} \rho_\alpha-\rho_\alpha\mathcal{H}_{\alpha}$, where an effective Hamiltonian $\mathcal{H}_{\alpha}$ becomes non-Hermitian due to quantum interference of light. The optical quantum interference is transferred to electrons through the asymmetric action between the ket and bra state vectors in $\rho_{\alpha}$. This non-Hermitian dynamics differs from the conventional one observed in open quantum systems, described by $\mathrm{i} \partial_t\rho=\mathcal{H}\rho-\rho \mathcal{H}^\dagger$, which has complex conjugation in the second term. We confirm that the results of the effective theory agree with those of full electron--photon system simulations for the few-electron Dicke model, demonstrating experimental accessibility to exotic non-Hermitian dynamics.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.16801v1</guid>
+      <title>Multiplexed color centers in a silicon photonic cavity array</title>
+      <link>https://arxiv.org/abs/2501.17339</link>
+      <description>arXiv:2501.17339v1 Announce Type: new 
+Abstract: Entanglement distribution is central to the modular scaling of quantum processors and establishing quantum networks. Color centers with telecom-band transitions and long spin coherence times are suitable candidates for long-distance entanglement distribution. However, high-bandwidth memory-enhanced quantum communication is limited by high-yield, scalable creation of efficient spin-photon interfaces. Here, we develop a silicon photonics platform consisting of arrays of bus-coupled cavities. The coupling to a common bus waveguide enables simultaneous access to individually addressable cavity-enhanced T center arrays. We demonstrate frequency-multiplexed operation of two T centers in separate photonic crystal cavities. In addition, we investigate the cavity enhancement of a T center through hybridized modes formed between physically distant cavities. Our results show that bus-coupled arrays of cavity-enhanced color centers could enable efficient on-chip and long-distance entanglement distribution.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.17339v1</guid>
       <category>quant-ph</category>
       <category>cond-mat.mes-hall</category>
       <category>physics.optics</category>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Shohei Imai, Atsushi Ono, Naoto Tsuji</dc:creator>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Lukasz Komza, Xueyue Zhang, Hanbin Song, Yu-Lung Tang, Xin Wei, Alp Sipahigil</dc:creator>
     </item>
     <item>
-      <title>Two-photon interference between mutually-detuned resonance fluorescence signals scattered off a semiconductor quantum dot</title>
-      <link>https://arxiv.org/abs/2501.16939</link>
-      <description>arXiv:2501.16939v1 Announce Type: new 
-Abstract: Radiative linewidth of a two-level emitter (TLE) ultimately determines the bandwidth it can offer for quantum information processing. However, no prior experiment has so far been performed to examine the effect of driving detuning on indistinguishability of photons scattered off a TLE, a parameter that is crucial for photonic quantum computing. Here, we perform post-selective two-photon interference experiments between mutually-detuned resonance fluorescence signals from an InAs quantum dot embedded in a micropillar cavity. Our results suggest that indistinguishability among photons scattered off a quantum dot is inherently insensitive to the driving laser's detuning, as straightforwardly predicted by the resonance fluorescence model that systematically treats all scattered photons as spontaneous emission.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.16939v1</guid>
+      <title>Transition from non-ergodic to ergodic dynamics in an autonomous discrete time crystal</title>
+      <link>https://arxiv.org/abs/2501.17435</link>
+      <description>arXiv:2501.17435v1 Announce Type: new 
+Abstract: We consider an autonomous system of two coupled single-mode cavities, one of which interacts with a multimode resonator. We demonstrate that for small coupling strengths between single-mode cavities, the Loschmidt echo oscillates periodically in time and spontaneous breaking of time translation symmetry takes place. The Loschmidt echo behavior is an indication of the non-ergodic nature of the system when its evolution is time-reversible. In this regime, the system retains a memory of the initial state under the action of small perturbations. This behavior reveals the presence of a time crystalline order in the autonomous system. An increase in the coupling strength leads to a transition from periodic oscillations to an exponential decay in time of the Loschmidt echo. This corresponds to the transition from non-ergodic to ergodic behavior in the system. We demonstrate that the transition from non-ergodic to ergodic system's behavior can also be observed when changing the number of degrees of freedom in the resonator, which is achieved by changing its length.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.17435v1</guid>
+      <category>quant-ph</category>
+      <category>physics.optics</category>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>T. T. Sergeev, A. A. Zyablovsky, E. S. Andrianov</dc:creator>
+    </item>
+    <item>
+      <title>Fabry-P\'{e}rot etalon walk-off loss in ring cavities</title>
+      <link>https://arxiv.org/abs/2501.17558</link>
+      <description>arXiv:2501.17558v1 Announce Type: new 
+Abstract: Fabry-P\'erot etalons are widely used for laser frequency control. Inserting them in laser cavities imparts unavoidable walk-off loss and reduces the output power. Here, we treat the technology-relevant case of the walk-off loss of an etalon in a unidirectional ring cavity, which is a standard design of single-frequency lasers. We provide the theory background by discussing the analytic limits. The loss can be efficiently minimized by realignment, or by proper matching of the etalon's surface reflectivity with its refractive index. We numerically calculate the loss in the region uncovered by the analytic limits. We discuss practical laser design considerations, and we perform a tilt-tuning experiment in a single-frequency, solid-state laser setup.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.17558v1</guid>
       <category>quant-ph</category>
       <category>physics.atom-ph</category>
       <category>physics.optics</category>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+      <dc:creator>Ulrich Eismann</dc:creator>
+    </item>
+    <item>
+      <title>Reproducible generation of green-emitting color centers in hBN using oxygen annealing</title>
+      <link>https://arxiv.org/abs/2501.17562</link>
+      <description>arXiv:2501.17562v1 Announce Type: new 
+Abstract: The ability to generate quantum emitters with reproducible properties in solid-state matrices is crucial for quantum technologies. Here, we show that a high density of close-to-identical single-photon emitters can be created in commercial hexagonal boron nitride using annealing under oxygen atmosphere. This simple procedure yields a uniform in-plane distribution of color centers consistently emitting around 539.4 nm, with a wavelength spread smaller than 1 nm. We present an extensive characterization of their photophysical properties, showing that the emitters are bright and stable, and exhibit narrow lines at low temperatures with minimal spectral diffusion. These characteristics make this family of quantum emitters highly appealing for applications to quantum information science.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.17562v1</guid>
+      <category>quant-ph</category>
+      <category>physics.optics</category>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Guoqi Huang, Jian Wang, Ziqi Zeng, Hanqing Liu, Li Liu, Weijie Ji, Bang Wu, Haiqiao Ni, Zhichuan Niu, Rongzhen Jiao, Davide G. Marangon, Zhiliang Yuan</dc:creator>
+      <dc:creator>Helmi Fartas, Sa\"id Hassani, Jean-Pierre Hermier, Ngoc Diep Lai, St\'ephanie Buil, Aymeric Delteil</dc:creator>
     </item>
     <item>
-      <title>Quantum geometric bounds in spinful systems with trivial band topology</title>
-      <link>https://arxiv.org/abs/2501.16428</link>
-      <description>arXiv:2501.16428v1 Announce Type: cross 
-Abstract: We derive quantum geometric bounds in spinful systems with spin-topology characterized by a single $\mathbb{Z}$-index protected by a spin gap. Our bounds provide geometric conditions on the spin topology, distinct from the known quantum geometric bounds associated with Wilson loops and nontrivial band topologies. As a result, we obtain stricter bounds in time-reversal symmetric systems with a nontrivial $\mathbb{Z}_2$ index and also bounds in systems with a trivial $\mathbb{Z}_2$ index, where quantum metric should be otherwise unbounded. We benchmark these findings with first-principles calculations in elemental Bismuth realizing higher even nontrivial spin-Chern numbers. Moreover, we connect these bounds to optical responses, demonstrating that spin-resolved quantum geometry can be observed experimentally. Finally, we connect spin-bounds to quantum Fisher information and Cram\'er-Rao bounds which are central to quantum metrology, showing that the elemental Bi and other spin-topological phases hold promises for topological free fermion quantum sensors.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.16428v1</guid>
-      <category>cond-mat.mes-hall</category>
-      <category>cond-mat.mtrl-sci</category>
+      <title>End-to-end physics-based modeling of laser-activated color centers in silicon</title>
+      <link>https://arxiv.org/abs/2501.17240</link>
+      <description>arXiv:2501.17240v1 Announce Type: cross 
+Abstract: Color centers are among the most promising candidates for quantum information processing. Central requirements for their practical applications include controlled and efficient local activation in nanophotonic devices and identical spectral features. However, producing color centers in a controlled and reliable way is inherently challenging due to the lack of comprehensive theoretical insights into their formation and the difficulty of streamlining the generation process for rapid in-situ optimization. We address these challenges by developing an end-to-end first-principles model that captures the underlying formation process of color centers. Emitters are activated through laser annealing, which allows for in-situ creation and the possibility of model-based control. Notably, our model enables the estimation of the emitters' inhomogeneous broadening down to 16 GHz in bare silicon, which translates into the creation of emitters with highly similar spectral properties. Finally, we address the challenge of in-situ deterministic activation of color centers in nanophotonic devices by going beyond bare silicon and demonstrating successful laser writing in photonic crystal optical cavities. These results lay the foundation for deterministic and large-scale integration of color centers within quantum photonic platforms.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.17240v1</guid>
       <category>physics.optics</category>
       <category>quant-ph</category>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>cross</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Wojciech J. Jankowski, Robert-Jan Slager, Gunnar F. Lange</dc:creator>
+      <dc:creator>Qiushi Gu, Valeria Saggio, Camille Papon, Alessandro Buzzi, Ian Christen, Christopher Panuski, Carlos Errando-Herranz, Dirk Englund</dc:creator>
     </item>
     <item>
-      <title>Bi-self-trapping of excitons via the long-living phonon mode and their superfluorescent markers</title>
-      <link>https://arxiv.org/abs/2501.16874</link>
-      <description>arXiv:2501.16874v1 Announce Type: cross 
-Abstract: Understanding the origin of the system response offers guidance for designing single-component material devices with required properties. A notable phenomenon of room-temperature superfluorescence recently observed in hybrid perovskites at high concentrations of excitations lacks of comprehensive theoretical framework. Addressing this gap necessitates a discussion grounded in non-linear and multiparticle theories. In this study, we offer the two-step mechanism: formation of two self-trapped excitons entangled via the same long-living phonon mode, and their rearrangement into a superradiating mirror symmetric configuration. Based on the semiclassical equations of motion we examine the criteria for the high-temperature self-trapping and bi-self trapping of excitons. Our findings indicate that the self-trapped excitons are described by the stable phase-locked steadystate solution of the equations of motion, and at elevated exciton concentrations, they compete with the bi-self-trapped excitons. The latter is described by the Dicke model and is thus responsible for the generation of the superfluorescent spectral peak. The obtained theoretical spectra are in good agreement with the experimental observation.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.16874v1</guid>
-      <category>cond-mat.mtrl-sci</category>
+      <title>Spectral tuning and nanoscale localization of single color centers in silicon via controllable strain</title>
+      <link>https://arxiv.org/abs/2501.17290</link>
+      <description>arXiv:2501.17290v1 Announce Type: cross 
+Abstract: The development of color centers in silicon enables scalable quantum technologies by combining telecom-wavelength emission and compatibility with mature silicon fabrication. However, large-scale integration requires precise control of each emitter's optical transition to generate indistinguishable photons for quantum networking. Here, we demonstrate a foundry-fabricated photonic integrated circuit (PIC) combining suspended silicon waveguides with a microelectromechanical (MEMS) cantilever to apply local strain and spectrally tune individual G-centers. Applying up to 35 V between the cantilever and the substrate induces a reversible wavelength shift of the zero-phonon line exceeding 100 pm, with no loss in brightness. Moreover, by modeling the strain-induced shifts with a `digital twin' physical model, we achieve vertical localization of color centers with sub-3 nm vertical resolution, directly correlating their spatial position, dipole orientation, and spectral behavior. This method enables on-demand, low-power control of emission spectrum and nanoscale localization of color centers, advancing quantum networks on a foundry-compatible platform.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.17290v1</guid>
       <category>physics.optics</category>
+      <category>physics.app-ph</category>
       <category>quant-ph</category>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Alessandro Buzzi, Camille Papon, Matteo Pirro, Odiel Hooybergs, Hamza Raniwala, Valeria Saggio, Carlos Errando-Herranz, Dirk Englund</dc:creator>
+    </item>
+    <item>
+      <title>Thermal Radiation Force and Torque on Moving Nanostructures with Anisotropic Optical Response</title>
+      <link>https://arxiv.org/abs/2501.17791</link>
+      <description>arXiv:2501.17791v1 Announce Type: cross 
+Abstract: Nanoscale objects moving relative to a thermal radiation bath experience a drag force due to the imbalance in their interaction with the blue- and redshifted components of the electromagnetic field. Here, we show that, in addition to this drag force, moving nanostructures with an anisotropic optical response experience a lateral force and a torque that substantially modify their trajectory. These phenomena emerge from the additional coupling between the electromagnetic field components polarized parallel and perpendicular to the trajectory, enabled by the anisotropic response of the nanostructure. This work unveils the intricate dynamics of anisotropic nanostructures moving in a thermal radiation bath.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.17791v1</guid>
+      <category>physics.optics</category>
+      <category>cond-mat.mes-hall</category>
+      <category>quant-ph</category>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>cross</arxiv:announce_type>
       <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Vladimir Al. Osipov</dc:creator>
-    </item>
-    <item>
-      <title>Generation of Deep Ultraviolet Optical Vortices via Amplitude and Phase Spiral Zone Plates</title>
-      <link>https://arxiv.org/abs/2501.16950</link>
-      <description>arXiv:2501.16950v1 Announce Type: cross 
-Abstract: We present the development and experimental implementation of diffractive optical elements designed to generate optical vortices in the deep ultraviolet range (from 260 to 266 nm). These elements, fabricated using advanced lithographic and etching techniques, facilitate the efficient transformation of Gaussian beams into twisted modes carrying orbital angular momentum. Experimental tests conducted using the laser driver of an RF photoinjector at JINR successfully demonstrate the generation of deep-ultraviolet optical vortices with a topological charge of l = 1. These findings underscore the potential of structured light in the deep ultraviolet range for applications in relativistic electron beam studies and beam manipulation technologies.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.16950v1</guid>
-      <category>physics.optics</category>
-      <category>physics.acc-ph</category>
-      <category>quant-ph</category>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>A. S. Dyatlov, M. A. Nozdrin, A. N. Sergeev, N. E. Sheremet, S. S. Stafeev, D. V. Karlovets</dc:creator>
-    </item>
-    <item>
-      <title>Robust purely optical signatures of Floquet-Bloch states in crystals</title>
-      <link>https://arxiv.org/abs/2501.17095</link>
-      <description>arXiv:2501.17095v1 Announce Type: cross 
-Abstract: Strong light-matter interactions enable triggering on-demand novel functionalities in materials. For periodically driven solids, the Floquet-Bloch states have emerged as the natural states to characterize the physical properties of these non-equilibrium systems. However, robust signatures of the Floquet-Bloch states are needed as common experimental conditions, such as pulsed laser excitation and dissipative many-body dynamics can disrupt their formation and survival. Here, we identify a tell-tale signature of Floquet-Bloch states in the linear optical response of laser-dressed solids that remains prominent even in the presence of strong spectral congestion of bulk matter. To do so, we introduce a computationally efficient strategy to finally capture the response properties of realistic laser-dressed solids, and use it to compute the optical absorption of ZnO using a model of full-dimensionality. The computations reveal intense, spectrally isolated, absorption/stimulated emission features at mid-infrared energies present for a wide range of laser-driving conditions that arise due to the hybridization of the Floquet-Bloch states. As such, these spectral features open a purely optical pathway to investigate the birth and survival of Floquet-Bloch states while avoiding the experimental challenges of fully reconstructing the band structure.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.17095v1</guid>
-      <category>physics.optics</category>
-      <category>cond-mat.mtrl-sci</category>
-      <category>physics.chem-ph</category>
-      <category>physics.comp-ph</category>
-      <category>quant-ph</category>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Vishal Tiwari, Ignacio Franco</dc:creator>
+      <dc:creator>Juan R. Deop-Ruano, Alejandro Manjavacas</dc:creator>
     </item>
   </channel>
 </rss>
