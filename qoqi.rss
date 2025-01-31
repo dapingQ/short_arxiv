@@ -7,107 +7,54 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jan 2025 05:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 05:00:09 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Fri, 31 Jan 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
     <item>
-      <title>Multiplexed color centers in a silicon photonic cavity array</title>
-      <link>https://arxiv.org/abs/2501.17339</link>
-      <description>arXiv:2501.17339v1 Announce Type: new 
-Abstract: Entanglement distribution is central to the modular scaling of quantum processors and establishing quantum networks. Color centers with telecom-band transitions and long spin coherence times are suitable candidates for long-distance entanglement distribution. However, high-bandwidth memory-enhanced quantum communication is limited by high-yield, scalable creation of efficient spin-photon interfaces. Here, we develop a silicon photonics platform consisting of arrays of bus-coupled cavities. The coupling to a common bus waveguide enables simultaneous access to individually addressable cavity-enhanced T center arrays. We demonstrate frequency-multiplexed operation of two T centers in separate photonic crystal cavities. In addition, we investigate the cavity enhancement of a T center through hybridized modes formed between physically distant cavities. Our results show that bus-coupled arrays of cavity-enhanced color centers could enable efficient on-chip and long-distance entanglement distribution.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.17339v1</guid>
+      <title>Squeezing at the normal-mode splitting frequency of a nonlinear coupled cavity</title>
+      <link>https://arxiv.org/abs/2501.18316</link>
+      <description>arXiv:2501.18316v1 Announce Type: new 
+Abstract: Coupled optical cavities, which support normal modes, play a critical role in optical filtering, sensing, slow-light generation, and quantum state manipulation. Recent theoretical work has proposed incorporating nonlinear materials into these systems to enable novel quantum technologies. Here, we report the first experimental demonstration of squeezing generated in a quantum-enhanced coupled-cavity system, achieving a quantum noise reduction of 3.5 dB at a normal-mode splitting frequency of 7.47 MHz. We provide a comprehensive analysis of the system's loss mechanisms and performance limitations, validating theoretical predictions. Our results underscore the promise of coupled-cavity squeezers for advanced quantum applications, including gravitational wave detection and precision sensing.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.18316v1</guid>
       <category>quant-ph</category>
-      <category>cond-mat.mes-hall</category>
+      <category>astro-ph.IM</category>
       <category>physics.optics</category>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Lukasz Komza, Xueyue Zhang, Hanbin Song, Yu-Lung Tang, Xin Wei, Alp Sipahigil</dc:creator>
+      <dc:creator>Jonas Junker, Jiayi Qin, Vaishali B. Adya, Nutsinee Kijbunchoo, Sheon S. Y. Chua, Terry G. McRae, Bram J. J. Slagmolen, David E. McClelland</dc:creator>
     </item>
     <item>
-      <title>Transition from non-ergodic to ergodic dynamics in an autonomous discrete time crystal</title>
-      <link>https://arxiv.org/abs/2501.17435</link>
-      <description>arXiv:2501.17435v1 Announce Type: new 
-Abstract: We consider an autonomous system of two coupled single-mode cavities, one of which interacts with a multimode resonator. We demonstrate that for small coupling strengths between single-mode cavities, the Loschmidt echo oscillates periodically in time and spontaneous breaking of time translation symmetry takes place. The Loschmidt echo behavior is an indication of the non-ergodic nature of the system when its evolution is time-reversible. In this regime, the system retains a memory of the initial state under the action of small perturbations. This behavior reveals the presence of a time crystalline order in the autonomous system. An increase in the coupling strength leads to a transition from periodic oscillations to an exponential decay in time of the Loschmidt echo. This corresponds to the transition from non-ergodic to ergodic behavior in the system. We demonstrate that the transition from non-ergodic to ergodic system's behavior can also be observed when changing the number of degrees of freedom in the resonator, which is achieved by changing its length.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.17435v1</guid>
+      <title>Digital Quantum Simulations of the Non-Resonant Open Tavis-Cummings Model</title>
+      <link>https://arxiv.org/abs/2501.18522</link>
+      <description>arXiv:2501.18522v1 Announce Type: new 
+Abstract: The open Tavis-Cummings model consists of $N$ quantum emitters interacting with a common cavity mode, accounts for losses and decoherence, and is frequently explored for quantum information processing and designing quantum devices. As $N$ increases, it becomes harder to simulate the open Tavis-Cummings model using traditional methods. To address this problem, we implement two quantum algorithms for simulating the dynamics of this model in the inhomogenous, non-resonant regime, with up to three excitations in the cavity. We show that the implemented algorithms have gate complexities that scale polynomially, as $O(N^2)$ and $O(N^3)$. One of these algorithms is the sampling-based wave matrix Lindbladization algorithm, for which we propose two protocols to implement its system-independent fixed interaction, resolving key open questions of [Patel and Wilde, Open Sys. &amp; Info. Dyn., 30:2350014 (2023)]. Furthermore, we benchmark our results against a classical differential equation solver and demonstrate the ability to simulate classically intractable systems.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.18522v1</guid>
       <category>quant-ph</category>
+      <category>cs.DS</category>
+      <category>physics.comp-ph</category>
       <category>physics.optics</category>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
       <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>T. T. Sergeev, A. A. Zyablovsky, E. S. Andrianov</dc:creator>
+      <dc:creator>Aidan N. Sims, Dhrumil Patel, Aby Philip, Alex H. Rubin, Rahul Bandyopadhyay, Marina Radulaski, Mark M. Wilde</dc:creator>
     </item>
     <item>
-      <title>Fabry-P\'{e}rot etalon walk-off loss in ring cavities</title>
-      <link>https://arxiv.org/abs/2501.17558</link>
-      <description>arXiv:2501.17558v1 Announce Type: new 
-Abstract: Fabry-P\'erot etalons are widely used for laser frequency control. Inserting them in laser cavities imparts unavoidable walk-off loss and reduces the output power. Here, we treat the technology-relevant case of the walk-off loss of an etalon in a unidirectional ring cavity, which is a standard design of single-frequency lasers. We provide the theory background by discussing the analytic limits. The loss can be efficiently minimized by realignment, or by proper matching of the etalon's surface reflectivity with its refractive index. We numerically calculate the loss in the region uncovered by the analytic limits. We discuss practical laser design considerations, and we perform a tilt-tuning experiment in a single-frequency, solid-state laser setup.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.17558v1</guid>
+      <title>Sample Classification using Machine Learning-Assisted Entangled Two-Photon Absorption</title>
+      <link>https://arxiv.org/abs/2501.18534</link>
+      <description>arXiv:2501.18534v1 Announce Type: new 
+Abstract: Entangled two-photon absorption (eTPA) has been recognized as a potentially powerful tool for the implementation of ultra-sensitive spectroscopy. Unfortunately, there exists a general agreement in the quantum optics community that experimental eTPA signals, particularly those obtained from molecular solutions, are extremely weak. Consequently, obtaining spectroscopic information about an arbitrary sample via conventional methods rapidly becomes an unrealistic endeavor. To address this problem, we introduce an experimental scheme that reduces the amount of data needed to identify and classify unknown samples via their electronic structure. Our proposed method makes use of machine learning (ML) to extract information about the number of intermediate levels that participate in the two-photon excitation of the absorbing medium. This is achieved by training artificial neural networks (ANNs) with various eTPA signals where the delay between the absorbed photons is externally controlled. Inspired by multiple experimental studies of eTPA, we consider model systems comprising one to four intermediate levels, whose energies are randomly chosen from four different intermediate-level band gaps, namely: $\Delta\lambda = 10$, $20$, $30$, and $40$ nm. Within these band gaps, and with the goal of testing the efficiency of our artificial intelligence algorithms, we make use of three different wavelength spacing $1$, $0.5$ and $0.1$ nm. We find that for a proper entanglement time between the absorbed photons, classification average efficiencies exceed 99$\%$ for all configurations. Our results demonstrate the potential of artificial neural networks for facilitating the experimental implementation of eTPA spectroscopy.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.18534v1</guid>
       <category>quant-ph</category>
-      <category>physics.atom-ph</category>
       <category>physics.optics</category>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
-      <dc:creator>Ulrich Eismann</dc:creator>
-    </item>
-    <item>
-      <title>Reproducible generation of green-emitting color centers in hBN using oxygen annealing</title>
-      <link>https://arxiv.org/abs/2501.17562</link>
-      <description>arXiv:2501.17562v1 Announce Type: new 
-Abstract: The ability to generate quantum emitters with reproducible properties in solid-state matrices is crucial for quantum technologies. Here, we show that a high density of close-to-identical single-photon emitters can be created in commercial hexagonal boron nitride using annealing under oxygen atmosphere. This simple procedure yields a uniform in-plane distribution of color centers consistently emitting around 539.4 nm, with a wavelength spread smaller than 1 nm. We present an extensive characterization of their photophysical properties, showing that the emitters are bright and stable, and exhibit narrow lines at low temperatures with minimal spectral diffusion. These characteristics make this family of quantum emitters highly appealing for applications to quantum information science.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.17562v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Helmi Fartas, Sa\"id Hassani, Jean-Pierre Hermier, Ngoc Diep Lai, St\'ephanie Buil, Aymeric Delteil</dc:creator>
-    </item>
-    <item>
-      <title>End-to-end physics-based modeling of laser-activated color centers in silicon</title>
-      <link>https://arxiv.org/abs/2501.17240</link>
-      <description>arXiv:2501.17240v1 Announce Type: cross 
-Abstract: Color centers are among the most promising candidates for quantum information processing. Central requirements for their practical applications include controlled and efficient local activation in nanophotonic devices and identical spectral features. However, producing color centers in a controlled and reliable way is inherently challenging due to the lack of comprehensive theoretical insights into their formation and the difficulty of streamlining the generation process for rapid in-situ optimization. We address these challenges by developing an end-to-end first-principles model that captures the underlying formation process of color centers. Emitters are activated through laser annealing, which allows for in-situ creation and the possibility of model-based control. Notably, our model enables the estimation of the emitters' inhomogeneous broadening down to 16 GHz in bare silicon, which translates into the creation of emitters with highly similar spectral properties. Finally, we address the challenge of in-situ deterministic activation of color centers in nanophotonic devices by going beyond bare silicon and demonstrating successful laser writing in photonic crystal optical cavities. These results lay the foundation for deterministic and large-scale integration of color centers within quantum photonic platforms.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.17240v1</guid>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Qiushi Gu, Valeria Saggio, Camille Papon, Alessandro Buzzi, Ian Christen, Christopher Panuski, Carlos Errando-Herranz, Dirk Englund</dc:creator>
-    </item>
-    <item>
-      <title>Spectral tuning and nanoscale localization of single color centers in silicon via controllable strain</title>
-      <link>https://arxiv.org/abs/2501.17290</link>
-      <description>arXiv:2501.17290v1 Announce Type: cross 
-Abstract: The development of color centers in silicon enables scalable quantum technologies by combining telecom-wavelength emission and compatibility with mature silicon fabrication. However, large-scale integration requires precise control of each emitter's optical transition to generate indistinguishable photons for quantum networking. Here, we demonstrate a foundry-fabricated photonic integrated circuit (PIC) combining suspended silicon waveguides with a microelectromechanical (MEMS) cantilever to apply local strain and spectrally tune individual G-centers. Applying up to 35 V between the cantilever and the substrate induces a reversible wavelength shift of the zero-phonon line exceeding 100 pm, with no loss in brightness. Moreover, by modeling the strain-induced shifts with a `digital twin' physical model, we achieve vertical localization of color centers with sub-3 nm vertical resolution, directly correlating their spatial position, dipole orientation, and spectral behavior. This method enables on-demand, low-power control of emission spectrum and nanoscale localization of color centers, advancing quantum networks on a foundry-compatible platform.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.17290v1</guid>
-      <category>physics.optics</category>
-      <category>physics.app-ph</category>
-      <category>quant-ph</category>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Alessandro Buzzi, Camille Papon, Matteo Pirro, Odiel Hooybergs, Hamza Raniwala, Valeria Saggio, Carlos Errando-Herranz, Dirk Englund</dc:creator>
-    </item>
-    <item>
-      <title>Thermal Radiation Force and Torque on Moving Nanostructures with Anisotropic Optical Response</title>
-      <link>https://arxiv.org/abs/2501.17791</link>
-      <description>arXiv:2501.17791v1 Announce Type: cross 
-Abstract: Nanoscale objects moving relative to a thermal radiation bath experience a drag force due to the imbalance in their interaction with the blue- and redshifted components of the electromagnetic field. Here, we show that, in addition to this drag force, moving nanostructures with an anisotropic optical response experience a lateral force and a torque that substantially modify their trajectory. These phenomena emerge from the additional coupling between the electromagnetic field components polarized parallel and perpendicular to the trajectory, enabled by the anisotropic response of the nanostructure. This work unveils the intricate dynamics of anisotropic nanostructures moving in a thermal radiation bath.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.17791v1</guid>
-      <category>physics.optics</category>
-      <category>cond-mat.mes-hall</category>
-      <category>quant-ph</category>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
       <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Juan R. Deop-Ruano, Alejandro Manjavacas</dc:creator>
+      <dc:creator>\'Aulide Mart\'inez-Tapia, Roberto de J. Le\'on-Montiel</dc:creator>
     </item>
   </channel>
 </rss>
