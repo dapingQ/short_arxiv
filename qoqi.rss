@@ -7,54 +7,12 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2025 05:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 05:00:02 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Fri, 31 Jan 2025 00:00:00 -0500</pubDate>
+    <pubDate>Sat, 01 Feb 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
-    <item>
-      <title>Squeezing at the normal-mode splitting frequency of a nonlinear coupled cavity</title>
-      <link>https://arxiv.org/abs/2501.18316</link>
-      <description>arXiv:2501.18316v1 Announce Type: new 
-Abstract: Coupled optical cavities, which support normal modes, play a critical role in optical filtering, sensing, slow-light generation, and quantum state manipulation. Recent theoretical work has proposed incorporating nonlinear materials into these systems to enable novel quantum technologies. Here, we report the first experimental demonstration of squeezing generated in a quantum-enhanced coupled-cavity system, achieving a quantum noise reduction of 3.5 dB at a normal-mode splitting frequency of 7.47 MHz. We provide a comprehensive analysis of the system's loss mechanisms and performance limitations, validating theoretical predictions. Our results underscore the promise of coupled-cavity squeezers for advanced quantum applications, including gravitational wave detection and precision sensing.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.18316v1</guid>
-      <category>quant-ph</category>
-      <category>astro-ph.IM</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Jonas Junker, Jiayi Qin, Vaishali B. Adya, Nutsinee Kijbunchoo, Sheon S. Y. Chua, Terry G. McRae, Bram J. J. Slagmolen, David E. McClelland</dc:creator>
-    </item>
-    <item>
-      <title>Digital Quantum Simulations of the Non-Resonant Open Tavis-Cummings Model</title>
-      <link>https://arxiv.org/abs/2501.18522</link>
-      <description>arXiv:2501.18522v1 Announce Type: new 
-Abstract: The open Tavis-Cummings model consists of $N$ quantum emitters interacting with a common cavity mode, accounts for losses and decoherence, and is frequently explored for quantum information processing and designing quantum devices. As $N$ increases, it becomes harder to simulate the open Tavis-Cummings model using traditional methods. To address this problem, we implement two quantum algorithms for simulating the dynamics of this model in the inhomogenous, non-resonant regime, with up to three excitations in the cavity. We show that the implemented algorithms have gate complexities that scale polynomially, as $O(N^2)$ and $O(N^3)$. One of these algorithms is the sampling-based wave matrix Lindbladization algorithm, for which we propose two protocols to implement its system-independent fixed interaction, resolving key open questions of [Patel and Wilde, Open Sys. &amp; Info. Dyn., 30:2350014 (2023)]. Furthermore, we benchmark our results against a classical differential equation solver and demonstrate the ability to simulate classically intractable systems.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.18522v1</guid>
-      <category>quant-ph</category>
-      <category>cs.DS</category>
-      <category>physics.comp-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Aidan N. Sims, Dhrumil Patel, Aby Philip, Alex H. Rubin, Rahul Bandyopadhyay, Marina Radulaski, Mark M. Wilde</dc:creator>
-    </item>
-    <item>
-      <title>Sample Classification using Machine Learning-Assisted Entangled Two-Photon Absorption</title>
-      <link>https://arxiv.org/abs/2501.18534</link>
-      <description>arXiv:2501.18534v1 Announce Type: new 
-Abstract: Entangled two-photon absorption (eTPA) has been recognized as a potentially powerful tool for the implementation of ultra-sensitive spectroscopy. Unfortunately, there exists a general agreement in the quantum optics community that experimental eTPA signals, particularly those obtained from molecular solutions, are extremely weak. Consequently, obtaining spectroscopic information about an arbitrary sample via conventional methods rapidly becomes an unrealistic endeavor. To address this problem, we introduce an experimental scheme that reduces the amount of data needed to identify and classify unknown samples via their electronic structure. Our proposed method makes use of machine learning (ML) to extract information about the number of intermediate levels that participate in the two-photon excitation of the absorbing medium. This is achieved by training artificial neural networks (ANNs) with various eTPA signals where the delay between the absorbed photons is externally controlled. Inspired by multiple experimental studies of eTPA, we consider model systems comprising one to four intermediate levels, whose energies are randomly chosen from four different intermediate-level band gaps, namely: $\Delta\lambda = 10$, $20$, $30$, and $40$ nm. Within these band gaps, and with the goal of testing the efficiency of our artificial intelligence algorithms, we make use of three different wavelength spacing $1$, $0.5$ and $0.1$ nm. We find that for a proper entanglement time between the absorbed photons, classification average efficiencies exceed 99$\%$ for all configurations. Our results demonstrate the potential of artificial neural networks for facilitating the experimental implementation of eTPA spectroscopy.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.18534v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>\'Aulide Mart\'inez-Tapia, Roberto de J. Le\'on-Montiel</dc:creator>
-    </item>
   </channel>
 </rss>
