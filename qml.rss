@@ -7,12 +7,55 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2025 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 05:00:04 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Sun, 02 Feb 2025 00:00:00 -0500</pubDate>
+    <pubDate>Mon, 03 Feb 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
+    <item>
+      <title>Quantum SMOTE with Angular Outliers: Redefining Minority Class Handling</title>
+      <link>https://arxiv.org/abs/2501.19001</link>
+      <description>arXiv:2501.19001v1 Announce Type: new 
+Abstract: This paper introduces Quantum-SMOTEV2, an advanced variant of the Quantum-SMOTE method, leveraging quantum computing to address class imbalance in machine learning datasets without K-Means clustering. Quantum-SMOTEV2 synthesizes data samples using swap tests and quantum rotation centered around a single data centroid, concentrating on the angular distribution of minority data points and the concept of angular outliers (AOL). Experimental results show significant enhancements in model performance metrics at moderate SMOTE levels (30-36%), which previously required up to 50% with the original method. Quantum-SMOTEV2 maintains essential features of its predecessor (arXiv:2402.17398), such as rotation angle, minority percentage, and splitting factor, allowing for tailored adaptation to specific dataset needs. The method is scalable, utilizing compact swap tests and low depth quantum circuits to accommodate a large number of features. Evaluation on the public Cell-to-Cell Telecom dataset with Random Forest (RF), K-Nearest Neighbours (KNN) Classifier, and Neural Network (NN) illustrates that integrating Angular Outliers modestly boosts classification metrics like accuracy, F1 Score, AUC-ROC, and AUC-PR across different proportions of synthetic data, highlighting the effectiveness of Quantum-SMOTEV2 in enhancing model performance for edge cases.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.19001v1</guid>
+      <category>quant-ph</category>
+      <category>cs.LG</category>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Nishikanta Mohanty, Bikash K. Behera, Christopher Ferrie</dc:creator>
+    </item>
+    <item>
+      <title>A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier</title>
+      <link>https://arxiv.org/abs/2501.19375</link>
+      <description>arXiv:2501.19375v1 Announce Type: new 
+Abstract: We develop a unified theory for fault-tolerant quantum computation in quantum low-density parity-check (qLDPC) and topological codes. We show that there exist hidden simplicial complex structures encoding the topological data for all qLDPC and CSS codes obtained from product construction by generalizing the Freedman-Hastings code-to-manifold mapping. This is achieved by building manifolds corresponding to high-dimensional topological expanders from the Tanner graphs of the skeleton classical or quantum codes, which further form a product manifold and an associated thickened product code defined on its triangulation with only a constant qubit overhead. This suggests that qLDPC or more generally CSS codes obtained from product constructions are topological, and hence can admit cohomology operations such as cup products, physically corresponding to higher symmetries in the underlying topological quantum field theory. When applying this mapping to a 3D hypergraph product code obtained from the product of 3 copies of good classical expander codes, we obtain the first non-Clifford logical CCZ gates via constant depth circuits on a code with constant stabilizer weight $w=O(1)$, constant rate $K=\Theta(N)$, and polynomial distance $D=\Omega(N^{1/3})$. When applied to 3D homological product codes consisting of the product of a pair of good quantum and classical LDPC codes, we can further improve the distance to $D=\Omega(\sqrt{N})$ exceeding the $N^{1/3}$ distance barrier implied by the Bravyi-K\"onig bound for conventional topological codes. Our work suggests that it is feasible to apply native logical non-Clifford gates on qLDPC codes or directly inject high-fidelity magic states as resources (`magic state fountain') without the distillation process. For the homological product construction, the fountain can inject $\Theta(\sqrt{N})$ magic states in parallel in a single round.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.19375v1</guid>
+      <category>quant-ph</category>
+      <category>cond-mat.str-el</category>
+      <category>cs.IT</category>
+      <category>hep-th</category>
+      <category>math.GT</category>
+      <category>math.IT</category>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Guanyu Zhu</dc:creator>
+    </item>
+    <item>
+      <title>Regularized second-order optimization of tensor-network Born machines</title>
+      <link>https://arxiv.org/abs/2501.18691</link>
+      <description>arXiv:2501.18691v1 Announce Type: cross 
+Abstract: Tensor-network Born machines (TNBMs) are quantum-inspired generative models for learning data distributions. Using tensor-network contraction and optimization techniques, the model learns an efficient representation of the target distribution, capable of capturing complex correlations with a compact parameterization. Despite their promise, the optimization of TNBMs presents several challenges. A key bottleneck of TNBMs is the logarithmic nature of the loss function that is commonly used for this problem. The single-tensor logarithmic optimization problem cannot be solved analytically, necessitating an iterative approach that slows down convergence and increases the risk of getting trapped in one of many non-optimal local minima. In this paper, we present an improved second-order optimization technique for TNBM training, which significantly enhances convergence rates and the quality of the optimized model. Our method employs a modified Newton's method on the manifold of normalized states, incorporating regularization of the loss landscape to mitigate local minima issues. We demonstrate the effectiveness of our approach by training a one-dimensional matrix product state (MPS) on both discrete and continuous datasets, showcasing its advantages in terms of stability, efficiency, and generalization.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2501.18691v1</guid>
+      <category>cs.LG</category>
+      <category>quant-ph</category>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Matan Ben-Dov, Jing Chen</dc:creator>
+    </item>
   </channel>
 </rss>
