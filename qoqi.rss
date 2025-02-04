@@ -7,54 +7,108 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Feb 2025 05:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 05:00:05 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Mon, 03 Feb 2025 00:00:00 -0500</pubDate>
+    <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
     <item>
-      <title>Stabilizing an optical cavity containing a bulk diamond crystal at millikelvin temperatures in a cryogen-free dilution refrigerator</title>
-      <link>https://arxiv.org/abs/2501.18938</link>
-      <description>arXiv:2501.18938v1 Announce Type: new 
-Abstract: We successfully stabilized a Fabry-P\'erot optical cavity incorporating a bulk diamond crystal at millikelvin temperatures in a cryogen-free dilution refrigerator with the pulse-tube cryocooler running. In stark contrast to previous demonstrations where lasers were locked to the cavities, our setup locks the cavity to a laser. Our measurements of cavity length fluctuation suggest that the setup could stabilize a cavity up to a finesse of $1.2\times 10^4$ without the diamond and $5.8 \times10^3$ with the diamond crystal. The finesse with a diamond crystal of approximately 90 is primarily limited by the absorption loss inside the diamond.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.18938v1</guid>
+      <title>Ultrafast All-Optical Measurement of Squeezed Vacuum in a Lithium Niobate Nanophotonic Circuit</title>
+      <link>https://arxiv.org/abs/2502.00518</link>
+      <description>arXiv:2502.00518v1 Announce Type: new 
+Abstract: Squeezed vacuum, a fundamental resource for continuous-variable quantum information processing, has been used to demonstrate quantum advantages in sensing, communication, and computation. While most experiments use homodyne detection to characterize squeezing and are therefore limited to electronic bandwidths, recent experiments have shown optical parametric amplification (OPA) to be a viable measurement strategy. Here, we realize OPA-based quantum state tomography in integrated photonics and demonstrate the generation and all-optical Wigner tomography of squeezed vacuum in a nanophotonic circuit. We employ dispersion engineering to enable the distortion-free propagation of femtosecond pulses and achieve ultrabroad operation bandwidths, effectively lifting the speed restrictions imposed by traditional electronics on quantum measurements with a theoretical maximum clock speed of 6.5 THz. We implement our circuit on thin-film lithium niobate, a platform compatible with a wide variety of active and passive photonic components. Our results chart a course for realizing all-optical ultrafast quantum information processing in an integrated room-temperature platform.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.00518v1</guid>
       <category>quant-ph</category>
-      <category>physics.ins-det</category>
       <category>physics.optics</category>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Tatsuki Hamamoto, Amit Bhunia, Hiroki Takahashi, Yuimaru Kubo</dc:creator>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>James Williams, Elina Sendonaris, Rajveer Nehra, Robert M Gray, Ryoto Sekine, Luis Ledezma, Alireza Marandi</dc:creator>
     </item>
     <item>
-      <title>Addressing the correlation of Stokes-shifted photons emitted from two quantum emitters</title>
-      <link>https://arxiv.org/abs/2501.19356</link>
-      <description>arXiv:2501.19356v1 Announce Type: new 
-Abstract: In resonance fluorescence excitation experiments, light emitted from solid-state quantum emitters is typically filtered to eliminate the laser photons, ensuring that only red-shifted Stokes photons are detected. Theoretical analyses of the fluorescence intensity correlation often model emitters as two-level systems, focusing on light emitted exclusively from the purely electronic transition (the Zero-Phonon Line), or rely on statistical approaches based on conditional probabilities that do not account for quantum coherences. Here, we propose a general model to characterize the correlation of either Zero-Phonon Line photons or Stokes-shifted photons. This model successfully reproduces the experimental correlation of Stokes-shifted photons emitted from two interacting molecules and predicts that this correlation is affected by quantum coherence. Besides, we analyze the role of quantum coherence in light emission from two uncorrelated emitters, which helps to clarify the discrepancy between theory and experiments regarding the value of the correlation of photons emitted from this system at zero delay time.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.19356v1</guid>
+      <title>Long-distance Bell nonlocality and teleportation with hybrid entangled states</title>
+      <link>https://arxiv.org/abs/2502.00707</link>
+      <description>arXiv:2502.00707v1 Announce Type: new 
+Abstract: We analyze sharing Bell-type nonlocal correlation between two distant parties with optical hybrid states comprising of a single photon polarization state and a multiphoton coherent state. By deploying entanglement swapping over the coherent state parts at the middle station, we show that the optical hybrid states can efficiently generate a polarization-entangled state that violates Clauser-Horne-Shimoni-Holt (CHSH) Bell-inequality well over a metropolitan distance. We further assess the quality of the shared entangled state in the information processing task of quantum teleportation of an unknown polarization qubit. Our results with realistic devices, embedding detection inefficiency and transmission losses, indicate the viability of faithful quantum teleportation over large distances, conforming with the quality of the shared correlation.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.00707v1</guid>
       <category>quant-ph</category>
-      <category>cond-mat.mes-hall</category>
       <category>physics.optics</category>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Adri\'an Juan-Delgado, Jean-Baptiste Trebbia, Ruben Esteban, Quentin Deplano, Philippe Tamarat, R\'emi Avriller, Brahim Lounis, Javier Aizpurua</dc:creator>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Subhankar Bera, Soumyakanti Bose, Hyunseok Jeong, Archan S Majumdar</dc:creator>
     </item>
     <item>
-      <title>Programmable Synthetic Magnetism and Chiral Edge States in Nano-Optomechanical Quantum Hall Networks</title>
-      <link>https://arxiv.org/abs/2501.18882</link>
-      <description>arXiv:2501.18882v1 Announce Type: cross 
-Abstract: Artificial magnetic fields break time-reversal symmetry in engineered materials--also known as metamaterials, enabling robust, topological transport of neutral excitations, much like electronic conduction edge channels in the integer quantum Hall effect. We experimentally demonstrate the emergence of quantum-Hall-like chiral edge states in optomechanical resonator networks. Synthetic magnetic fields for phononic excitations are induced through laser drives, while cavity optomechanical control allows full reconfigurability of the effective metamaterial response of the networks, including programming of magnetic fluxes in multiple resonator plaquettes. By tuning the interplay between network connectivity and magnetic fields, we demonstrate both flux-sensitive and flux-insensitive localized mechanical states. Scaling up the system creates spectral features that are precursors to Hofstadter butterfly spectra. Site-resolved spectroscopy reveals edge-bulk separation, with stationary phononic distributions signaling chiral edge modes. We directly probe those edge modes in transport measurements to demonstrate a unidirectional acoustic channel. This work unlocks new ways of controlling topological phononic phases at the nanoscale with applications in noise management and information processing.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2501.18882v1</guid>
+      <title>Hybrid sub- and superradiant states in emitter arrays with quantized motion</title>
+      <link>https://arxiv.org/abs/2502.01428</link>
+      <description>arXiv:2502.01428v1 Announce Type: new 
+Abstract: Ensembles of dipolar emitters which couple collectively to the radiation field display sub- and superradiance. These terms refer to a reduction or an enhancement of photon emission rates due to the interference of emission channels. Arrays of trapped neutral atoms constitute a promising platform for harnessing this phenomenon in technological applications, e.g. for excitation storage, single-photon switches and mirrors. However, vibrational motion of the atoms within their traps leads to position fluctuations that entangle the motion and the internal atomic degrees of freedom, which is expected to affect the collective photon emission. We develop here a theory for collective atom-light coupling in the presence of this quantized motion within the Lamb-Dicke limit. We show the existence of sub- and superradiant states, which are hybrids of electronic and vibrational excitations and explore their properties for analytically and numerically efficiently solvable cases.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.01428v1</guid>
+      <category>quant-ph</category>
+      <category>physics.atom-ph</category>
+      <category>physics.optics</category>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Beatriz Olmos, Igor Lesanovsky</dc:creator>
+    </item>
+    <item>
+      <title>Waveguide Excitation and Spin Pumping of Chirally Coupled Quantum Dots</title>
+      <link>https://arxiv.org/abs/2502.00218</link>
+      <description>arXiv:2502.00218v1 Announce Type: cross 
+Abstract: We report on an integrated semiconductor chip where a single quantum dot (QD) is excited in-plane via a photonic-crystal waveguide through its nearest p-shell optical transition. The chirality of the waveguide mode is exploited to achieve both directional absorption and directional emission, resulting in a substantial enhancement in directional contrast, as measured for the Zeeman components of the waveguide-coupled QD. This remote excitation scheme enables high directionality (greater than or equal to 0.95) across approximately 56% of the waveguide area, with significant overlap with the Purcell-enhanced region, where the electric field intensity profile is near its peak. In contrast, local excitation methods using an out-of-plane excitation beam focused directly over the area of the QD achieve only approximately 25% overlap. This enhancement increases the likelihood of locating Purcell-enhanced QDs in regions that support high directionality, enabling the experimental demonstration of a six-fold enhancement in the decay rate of a QD with greater than 90% directionality. The remote p-shell excitation protocol establishes a new benchmark for waveguide quantum optics in terms of the combination of Purcell enhancement and high directionality, thereby paving the way for on-chip excitation of spin-based solid-state quantum technologies in regimes of high beta-factor.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.00218v1</guid>
       <category>cond-mat.mes-hall</category>
+      <category>physics.app-ph</category>
       <category>physics.optics</category>
       <category>quant-ph</category>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Savvas Germanis, Xuchao Chen, Ren\'e Dost, Dominic J. Hallett, Edmund Clarke, Pallavi K. Patil, Maurice S. Skolnick, Luke R. Wilson, Hamidreza Siampour, A. Mark Fox</dc:creator>
+    </item>
+    <item>
+      <title>Structural Dynamics and Strong Correlations in Dynamical Quantum Optical Lattices</title>
+      <link>https://arxiv.org/abs/2502.00588</link>
+      <description>arXiv:2502.00588v1 Announce Type: cross 
+Abstract: When placing an ultracold atomic gas inside a cavity, the light-matter coupling is enhanced and nonlinear atomic dynamics are generated, offering a promising platform for quantum simulation of models with short- and long-range interactions. Recently, superradiant self organized phases for ultracold atomic gases inside a cavity, pumped by a blue detuned optical lattice, have been observed. Here, we explore the formation of quantum many-body phases with strongly interacting bosonic atoms inside an optical cavity, subject to transverse blue detuned pumping. We analyze the interplay between superradiant self-organization with superfluid and Mott insulator phases, without the need of including higher lying bands, as the Wannier functions are dynamically linked to the cavity light via backaction. We observe different kinds of structural phase transitions driven by the light inside the cavity and the interplay with atomic collisions. We observe the mode softening at the critical points in the quantum phase transitions which can be measured in future experiments.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.00588v1</guid>
+      <category>cond-mat.quant-gas</category>
+      <category>physics.atom-ph</category>
+      <category>physics.optics</category>
+      <category>quant-ph</category>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>cross</arxiv:announce_type>
       <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Jesse J. Slim, Javier del Pino, Ewold Verhagen</dc:creator>
+      <dc:creator>Adr\'ian U. Ram\'irez-Barajas, Santiago F. Caballero-Benitez</dc:creator>
+    </item>
+    <item>
+      <title>Induced Berry Connection and Photonic Spin Hall Effect in Optical Dirac Theory</title>
+      <link>https://arxiv.org/abs/2502.01016</link>
+      <description>arXiv:2502.01016v1 Announce Type: cross 
+Abstract: Within the framework of optical Dirac theory, we present a field-theoretical model of spin-orbit interaction and photonic spin/orbit Hall effects. Our approach reformulates light propagation along helical paths as solving the Maxwell equations in a ray-based curvilinear coordinate system. This system can alternatively be interpreted as a spin-degenerate medium with antisymmetric elements in the dielectric tensor, corresponding to the spin-1 excitation mode characterized by a rotational dipole vector. We show that, at leading order, the resulting effective Hamiltonian is equivalent to the Maxwell theory in a uniformly rotating frame, incorporating both spin-rotation and orbit-rotation coupling. This rotation arises from the torsion of helical paths, manifesting as extrinsic orbital angular momentum (EOAM) of photons. Notably, the spin angular momentum (SAM) of the photon and its intrinsic orbital angular momentum (IOAM) contribute jointly to the geometric phase. In the Heisenberg picture, the spin and orbital Hall effects naturally emerge from interaction terms in the ray equations. Furthermore, we find that the transverse spin of evanescent waves couples with EOAM, revealing that the geometric phase of elliptically polarized light differs from that of circularly polarized light. This distinction underscores the role of spin-orbit coupling in modifying phase accumulation.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.01016v1</guid>
+      <category>physics.optics</category>
+      <category>quant-ph</category>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+      <dc:creator>Lili Yang, Longlong Feng</dc:creator>
+    </item>
+    <item>
+      <title>Generation of photon pairs through spontaneous four-wave mixing in thin nonlinear layers</title>
+      <link>https://arxiv.org/abs/2502.01305</link>
+      <description>arXiv:2502.01305v1 Announce Type: cross 
+Abstract: Pairs of entangled photons are a key resource for photonic quantum technologies. The demand for integrability and multi-functionality suggests flat platforms, such as ultrathin layers and metasurfaces, as sources of photon pairs. Despite the success in the demonstration of spontaneous parametric-down-conversion (SPDC) from such flat sources, there are almost no works on spontaneous four-wave mixing (SFWM) - an alternative process to generate photon pairs. Meanwhile, SFWM can be implemented in any nanostructures, including isotropic and centrosymmetric ones, which are easier to fabricate than crystalline structures needed for SPDC. Here, we investigate photon pair generation through SFWM in subwavelength layers of amorphous silicon nitride (SiN) and study the effect of nitrogen content on the rate of pair emission. By observing two-photon interference between SFWM from the SiN layers and from the fused silica substrate, we find the third-order susceptibilities of layers with different nitrogen content. Finally, we demonstrate SFWM in lithium niobate, which is a second-order nonlinear material and where the direct SFWM can coexist with a cascaded process. Our results open a path for the implementation of SFWM in resonant flat structures, such as metasurfaces.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.01305v1</guid>
+      <category>physics.optics</category>
+      <category>quant-ph</category>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Changjin Son, Samuel Peana, Owen Matthiessen, Artem Kryvobok, Alexander Senichev, Alexandra Boltasseva, Vladimir M. Shalaev, Maria Chekhova</dc:creator>
     </item>
   </channel>
 </rss>
