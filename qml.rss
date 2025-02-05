@@ -7,85 +7,25 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Feb 2025 05:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 05:00:02 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
+    <pubDate>Wed, 05 Feb 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
     <item>
-      <title>Super Quantum Mechanics</title>
-      <link>https://arxiv.org/abs/2502.00037</link>
-      <description>arXiv:2502.00037v1 Announce Type: new 
-Abstract: We introduce Super Quantum Mechanics (SQM) as a theory that considers states in Hilbert space subject to multiple quadratic constraints. Traditional quantum mechanics corresponds to a single quadratic constraint of wavefunction normalization. In its simplest form, SQM considers states in the form of unitary operators, where the quadratic constraints are conditions of unitarity. In this case, the stationary SQM problem is a quantum inverse problem with multiple applications in machine learning and artificial intelligence. The SQM stationary problem is equivalent to a new algebraic problem that we address in this paper. The SQM non-stationary problem considers the evolution of a quantum system, distinct from the explicit time dependence of the Hamiltonian, $H(t)$. Several options for the SQM dynamic equation are considered, and quantum circuits of 2D type are introduced, which transform one quantum system into another. Although no known physical process currently describes such dynamics, this approach naturally bridges direct and inverse quantum mechanics problems, allowing for the development of a new type of computer algorithm. Beyond computer modeling, the developed theory could be directly applied if or when a physical process capable of solving an inverse quantum problem in a single measurement act (analogous to wavefunction measurement in traditional quantum mechanics) is discovered in the future.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.00037v1</guid>
+      <title>Adaptive Observation Cost Control for Variational Quantum Eigensolvers</title>
+      <link>https://arxiv.org/abs/2502.01704</link>
+      <description>arXiv:2502.01704v1 Announce Type: new 
+Abstract: The objective to be minimized in the variational quantum eigensolver (VQE) has a restricted form, which allows a specialized sequential minimal optimization (SMO) that requires only a few observations in each iteration. However, the SMO iteration is still costly due to the observation noise -- one observation at a point typically requires averaging over hundreds to thousands of repeated quantum measurement shots for achieving a reasonable noise level. In this paper, we propose an adaptive cost control method, named subspace in confident region (SubsCoRe), for SMO. SubsCoRe uses the Gaussian process (GP) surrogate, and requires it to have low uncertainty over the subspace being updated, so that optimization in each iteration is performed with guaranteed accuracy. The adaptive cost control is performed by first setting the required accuracy according to the progress of the optimization, and then choosing the minimum number of measurement shots and their distribution such that the required accuracy is satisfied. We demonstrate that SubsCoRe significantly improves the efficiency of SMO, and outperforms the state-of-the-art methods.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.01704v1</guid>
       <category>quant-ph</category>
       <category>cs.LG</category>
-      <category>cs.NA</category>
-      <category>math.NA</category>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>new</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Mikhail Gennadievich Belov, Victor Victorovich Dubov, Vadim Konstantinovich Ivanov, Alexander Yurievich Maslov, Olga Vladimirovna Proshina, Vladislav Gennadievich Malyshkin</dc:creator>
-    </item>
-    <item>
-      <title>On Multiquantum Bits, Segre Embeddings and Coxeter Chambers</title>
-      <link>https://arxiv.org/abs/2502.00461</link>
-      <description>arXiv:2502.00461v1 Announce Type: new 
-Abstract: This work explores the interplay between quantum information theory, algebraic geometry, and number theory, with a particular focus on multiqubit systems, their entanglement structure, and their classification via geometric embeddings. The Segre embedding, a fundamental construction in algebraic geometry, provides an algebraic framework to distinguish separable and entangled states, encoding quantum correlations in projective geometry. We develop a systematic study of qubit moduli spaces, illustrating the geometric structure of entanglement through hypercube constructions and Coxeter chamber decompositions.
-  We establish a bijection between the Segre embeddings of tensor products of projective spaces and binary words of length $n-1$, structured as an $(n-1)$-dimensional hypercube, where adjacency corresponds to a single Segre operation. This reveals a combinatorial structure underlying the hierarchy of embeddings, with direct implications for quantum error correction schemes. The symmetry of the Segre variety under the Coxeter group of type $A$ allows us to analyze quantum states and errors through the lens of reflection groups, viewing separable states as lying in distinct Coxeter chambers on a Segre variety. The transitive action of the permutation group on these chambers provides a natural method for tracking errors in quantum states and potentially reversing them. Beyond foundational aspects, we highlight relations between Segre varieties and Dixon elliptic curves, drawing connections between entanglement and number theory.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.00461v1</guid>
-      <category>quant-ph</category>
-      <category>cs.IT</category>
-      <category>math.AG</category>
-      <category>math.IT</category>
-      <category>math.NT</category>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>No\'emie C. Combe</dc:creator>
-    </item>
-    <item>
-      <title>Online Learning of Pure States is as Hard as Mixed States</title>
-      <link>https://arxiv.org/abs/2502.00823</link>
-      <description>arXiv:2502.00823v1 Announce Type: new 
-Abstract: Quantum state tomography, the task of learning an unknown quantum state, is a fundamental problem in quantum information. In standard settings, the complexity of this problem depends significantly on the type of quantum state that one is trying to learn, with pure states being substantially easier to learn than general mixed states. A natural question is whether this separation holds for any quantum state learning setting. In this work, we consider the online learning framework and prove the surprising result that learning pure states in this setting is as hard as learning mixed states. More specifically, we show that both classes share almost the same sequential fat-shattering dimension, leading to identical regret scaling under the $L_1$-loss. We also generalize previous results on full quantum state tomography in the online setting to learning only partially the density matrix, using smooth analysis.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.00823v1</guid>
-      <category>quant-ph</category>
-      <category>cs.LG</category>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Maxime Meyer, Soumik Adhikary, Naixu Guo, Patrick Rebentrost</dc:creator>
-    </item>
-    <item>
-      <title>Quantum Machine Learning: A Hands-on Tutorial for Machine Learning Practitioners and Researchers</title>
-      <link>https://arxiv.org/abs/2502.01146</link>
-      <description>arXiv:2502.01146v1 Announce Type: new 
-Abstract: This tutorial intends to introduce readers with a background in AI to quantum machine learning (QML) -- a rapidly evolving field that seeks to leverage the power of quantum computers to reshape the landscape of machine learning. For self-consistency, this tutorial covers foundational principles, representative QML algorithms, their potential applications, and critical aspects such as trainability, generalization, and computational complexity. In addition, practical code demonstrations are provided in https://qml-tutorial.github.io/ to illustrate real-world implementations and facilitate hands-on learning. Together, these elements offer readers a comprehensive overview of the latest advancements in QML. By bridging the gap between classical machine learning and quantum computing, this tutorial serves as a valuable resource for those looking to engage with QML and explore the forefront of AI in the quantum era.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.01146v1</guid>
-      <category>quant-ph</category>
-      <category>cs.AI</category>
-      <category>cs.LG</category>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Yuxuan Du, Xinbiao Wang, Naixu Guo, Zhan Yu, Yang Qian, Kaining Zhang, Min-Hsiu Hsieh, Patrick Rebentrost, Dacheng Tao</dc:creator>
-    </item>
-    <item>
-      <title>Predicting symmetries of quantum dynamics with optimal samples</title>
-      <link>https://arxiv.org/abs/2502.01464</link>
-      <description>arXiv:2502.01464v1 Announce Type: new 
-Abstract: Identifying symmetries in quantum dynamics, such as identity or time-reversal invariance, is a crucial challenge with profound implications for quantum technologies. We introduce a unified framework combining group representation theory and subgroup hypothesis testing to predict these symmetries with optimal efficiency. By exploiting the inherent symmetry of compact groups and their irreducible representations, we derive an exact characterization of the optimal type-II error (failure probability to detect a symmetry), offering an operational interpretation for the quantum max-relative entropy. In particular, we prove that parallel strategies achieve the same performance as adaptive or indefinite-causal-order protocols, resolving debates about the necessity of complex control sequences. Applications to the singleton group, maximal commutative group, and orthogonal group yield explicit results: for predicting the identity property, Z-symmetry, and T-symmetry of unknown qubit unitaries, with zero type-I error and type-II error bounded by $\delta$, we establish the explicit optimal sample complexity which scales as $\mathcal{O}(\delta^{-1/3})$ for identity testing and $\mathcal{O}(\delta^{-1/2})$ for T/Z-symmetry testing. These findings offer theoretical insights and practical guidelines for efficient unitary property testing and symmetry-driven protocols in quantum information processing.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.01464v1</guid>
-      <category>quant-ph</category>
-      <category>cs.IT</category>
-      <category>math.IT</category>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Masahito Hayashi, Yu-Ao Chen, Chenghong Zhu, Xin Wang</dc:creator>
+      <dc:creator>Christopher J. Anders, Kim A. Nicoli, Bingting Wu, Naima Elosegui, Samuele Pedrielli, Lena Funcke, Karl Jansen, Stefan K\"uhn, Shinichi Nakajima</dc:creator>
     </item>
   </channel>
 </rss>
