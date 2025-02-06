@@ -7,25 +7,55 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2025 05:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 05:00:03 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Wed, 05 Feb 2025 00:00:00 -0500</pubDate>
+    <pubDate>Thu, 06 Feb 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
     <item>
-      <title>Adaptive Observation Cost Control for Variational Quantum Eigensolvers</title>
-      <link>https://arxiv.org/abs/2502.01704</link>
-      <description>arXiv:2502.01704v1 Announce Type: new 
-Abstract: The objective to be minimized in the variational quantum eigensolver (VQE) has a restricted form, which allows a specialized sequential minimal optimization (SMO) that requires only a few observations in each iteration. However, the SMO iteration is still costly due to the observation noise -- one observation at a point typically requires averaging over hundreds to thousands of repeated quantum measurement shots for achieving a reasonable noise level. In this paper, we propose an adaptive cost control method, named subspace in confident region (SubsCoRe), for SMO. SubsCoRe uses the Gaussian process (GP) surrogate, and requires it to have low uncertainty over the subspace being updated, so that optimization in each iteration is performed with guaranteed accuracy. The adaptive cost control is performed by first setting the required accuracy according to the progress of the optimization, and then choosing the minimum number of measurement shots and their distribution such that the required accuracy is satisfied. We demonstrate that SubsCoRe significantly improves the efficiency of SMO, and outperforms the state-of-the-art methods.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.01704v1</guid>
+      <title>Rate-reliability functions for deterministic identification</title>
+      <link>https://arxiv.org/abs/2502.02389</link>
+      <description>arXiv:2502.02389v1 Announce Type: cross 
+Abstract: We investigate deterministic identification over arbitrary memoryless channels under the constraint that the error probabilities of first and second kind are exponentially small in the block length $n$, controlled by reliability exponents $E_1,E_2 \geq 0$. In contrast to the regime of slowly vanishing errors, where the identifiable message length scales as $\Theta(n\log n)$, here we find that for positive exponents linear scaling is restored, now with a rate that is a function of the reliability exponents. We give upper and lower bounds on the ensuing rate-reliability function in terms of (the logarithm of) the packing and covering numbers of the channel output set, which for small error exponents $E_1,E_2&gt;0$ can be expanded in leading order as the product of the Minkowski dimension of a certain parametrisation the channel output set and $\log\min\{E_1,E_2\}$. These allow us to recover the previously observed slightly superlinear identification rates, and offer a different perspective for understanding them in more traditional information theory terms. We further illustrate our results with a discussion of the case of dimension zero, and extend them to classical-quantum channels and quantum channels with tensor product input restriction.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.02389v1</guid>
+      <category>cs.IT</category>
+      <category>math.IT</category>
       <category>quant-ph</category>
-      <category>cs.LG</category>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Christopher J. Anders, Kim A. Nicoli, Bingting Wu, Naima Elosegui, Samuele Pedrielli, Lena Funcke, Karl Jansen, Stefan K\"uhn, Shinichi Nakajima</dc:creator>
+      <dc:creator>Pau Colomer, Christian Deppe, Holger Boche, Andreas Winter</dc:creator>
+    </item>
+    <item>
+      <title>Bayesian Parameter Shift Rule in Variational Quantum Eigensolvers</title>
+      <link>https://arxiv.org/abs/2502.02625</link>
+      <description>arXiv:2502.02625v1 Announce Type: cross 
+Abstract: Parameter shift rules (PSRs) are key techniques for efficient gradient estimation in variational quantum eigensolvers (VQEs). In this paper, we propose its Bayesian variant, where Gaussian processes with appropriate kernels are used to estimate the gradient of the VQE objective. Our Bayesian PSR offers flexible gradient estimation from observations at arbitrary locations with uncertainty information and reduces to the generalized PSR in special cases. In stochastic gradient descent (SGD), the flexibility of Bayesian PSR allows the reuse of observations in previous steps, which accelerates the optimization process. Furthermore, the accessibility to the posterior uncertainty, along with our proposed notion of gradient confident region (GradCoRe), enables us to minimize the observation costs in each SGD step. Our numerical experiments show that the VQE optimization with Bayesian PSR and GradCoRe significantly accelerates SGD and outperforms the state-of-the-art methods, including sequential minimal optimization.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.02625v1</guid>
+      <category>cs.LG</category>
+      <category>quant-ph</category>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Samuele Pedrielli, Christopher J. Anders, Lena Funcke, Karl Jansen, Kim A. Nicoli, Shinichi Nakajima</dc:creator>
+    </item>
+    <item>
+      <title>Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing</title>
+      <link>https://arxiv.org/abs/2502.03086</link>
+      <description>arXiv:2502.03086v1 Announce Type: cross 
+Abstract: This study explores the implementation of large Quantum Restricted Boltzmann Machines (QRBMs), a key advancement in Quantum Machine Learning (QML), as generative models on D-Wave's Pegasus quantum hardware to address dataset imbalance in Intrusion Detection Systems (IDS). By leveraging Pegasus's enhanced connectivity and computational capabilities, a QRBM with 120 visible and 120 hidden units was successfully embedded, surpassing the limitations of default embedding tools. The QRBM synthesized over 1.6 million attack samples, achieving a balanced dataset of over 4.2 million records. Comparative evaluations with traditional balancing methods, such as SMOTE and RandomOversampler, revealed that QRBMs produced higher-quality synthetic samples, significantly improving detection rates, precision, recall, and F1 score across diverse classifiers. The study underscores the scalability and efficiency of QRBMs, completing balancing tasks in milliseconds. These findings highlight the transformative potential of QML and QRBMs as next-generation tools in data preprocessing, offering robust solutions for complex computational challenges in modern information systems.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.03086v1</guid>
+      <category>cs.ET</category>
+      <category>cs.AI</category>
+      <category>cs.LG</category>
+      <category>cs.NE</category>
+      <category>quant-ph</category>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+      <dc:creator>Salvatore Sinno, Markus Bertl, Arati Sahoo, Bhavika Bhalgamiya, Thomas Gro{\ss}, Nicholas Chancellor</dc:creator>
     </item>
   </channel>
 </rss>
