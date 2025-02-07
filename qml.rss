@@ -7,55 +7,114 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Feb 2025 05:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 05:00:02 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Thu, 06 Feb 2025 00:00:00 -0500</pubDate>
+    <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
     <skipDays>
-      <day>Saturday</day>
       <day>Sunday</day>
+      <day>Saturday</day>
     </skipDays>
     <item>
-      <title>Rate-reliability functions for deterministic identification</title>
-      <link>https://arxiv.org/abs/2502.02389</link>
-      <description>arXiv:2502.02389v1 Announce Type: cross 
-Abstract: We investigate deterministic identification over arbitrary memoryless channels under the constraint that the error probabilities of first and second kind are exponentially small in the block length $n$, controlled by reliability exponents $E_1,E_2 \geq 0$. In contrast to the regime of slowly vanishing errors, where the identifiable message length scales as $\Theta(n\log n)$, here we find that for positive exponents linear scaling is restored, now with a rate that is a function of the reliability exponents. We give upper and lower bounds on the ensuing rate-reliability function in terms of (the logarithm of) the packing and covering numbers of the channel output set, which for small error exponents $E_1,E_2&gt;0$ can be expanded in leading order as the product of the Minkowski dimension of a certain parametrisation the channel output set and $\log\min\{E_1,E_2\}$. These allow us to recover the previously observed slightly superlinear identification rates, and offer a different perspective for understanding them in more traditional information theory terms. We further illustrate our results with a discussion of the case of dimension zero, and extend them to classical-quantum channels and quantum channels with tensor product input restriction.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.02389v1</guid>
+      <title>Dynamical Landauer principle: Thermodynamic criteria of transmitting classical information</title>
+      <link>https://arxiv.org/abs/2502.03603</link>
+      <description>arXiv:2502.03603v1 Announce Type: new 
+Abstract: Transmitting energy and information are two essential aspects of nature. Recent findings suggest they are closely related, while a quantitative equivalence between them is still unknown. This thus motivates us to ask: Can information transmission tasks equal certain energy transmission tasks? We answer this question positively by bounding various one-shot classical capacities via different energy transmission tasks. Such bounds provide the physical implication that, in the one-shot regime, transmitting $n$ bits of classical information is equivalent to $n\times k_BT\ln2$ transmitted energy. Unexpectedly, these bounds further uncover a dynamical version of Landauer's principle, showing the strong link between "transmitting" (rather than "erasing") information and energy. Finally, in the asymptotic regime, our findings further provide thermodynamic meanings for Holevo-Schumacher-Westmoreland Theorem and a series of strong converse properties as well as no-go theorems.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.03603v1</guid>
+      <category>quant-ph</category>
+      <category>cs.IT</category>
+      <category>math-ph</category>
+      <category>math.IT</category>
+      <category>math.MP</category>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <arxiv:DOI>10.1103/PhysRevA.111.022207</arxiv:DOI>
+      <arxiv:journal_reference>Phys. Rev. A 111, 022207 (2025)</arxiv:journal_reference>
+      <dc:creator>Chung-Yun Hsieh</dc:creator>
+    </item>
+    <item>
+      <title>Quantum Circuit Design using a Progressive Widening Monte Carlo Tree Search</title>
+      <link>https://arxiv.org/abs/2502.03962</link>
+      <description>arXiv:2502.03962v1 Announce Type: new 
+Abstract: The performance of Variational Quantum Algorithms (VQAs) strongly depends on the choice of the parameterized quantum circuit to optimize. One of the biggest challenges in VQAs is designing quantum circuits tailored to the particular problem and to the quantum hardware. This article proposes a gradient-free Monte Carlo Tree Search (MCTS) technique to automate the process of quantum circuit design. It introduces a novel formulation of the action space based on a sampling scheme and a progressive widening technique to explore the space dynamically. When testing our MCTS approach on the domain of random quantum circuits, MCTS approximates unstructured circuits under different values of stabilizer R\'enyi entropy. It turns out that MCTS manages to approximate the benchmark quantum states independently from their degree of nonstabilizerness. Next, our technique exhibits robustness across various application domains, including quantum chemistry and systems of linear equations. Compared to previous MCTS research, our technique reduces the number of quantum circuit evaluations by a factor of 10 to 100 while achieving equal or better results. In addition, the resulting quantum circuits have up to three times fewer CNOT gates.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.03962v1</guid>
+      <category>quant-ph</category>
+      <category>cs.AI</category>
+      <category>cs.ET</category>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Vincenzo Lipardi, Domenica Dibenedetto, Georgios Stamoulis, Mark H. M. Winands</dc:creator>
+    </item>
+    <item>
+      <title>Cyclic quantum causal modelling with a graph separation theorem</title>
+      <link>https://arxiv.org/abs/2502.04168</link>
+      <description>arXiv:2502.04168v1 Announce Type: new 
+Abstract: Causal modelling frameworks link observable correlations to causal explanations, which is a crucial aspect of science. These models represent causal relationships through directed graphs, with vertices and edges denoting systems and transformations within a theory. Most studies focus on acyclic causal graphs, where well-defined probability rules and powerful graph-theoretic properties like the d-separation theorem apply. However, understanding complex feedback processes and exotic fundamental scenarios with causal loops requires cyclic causal models, where such results do not generally hold. While progress has been made in classical cyclic causal models, challenges remain in uniquely fixing probability distributions and identifying graph-separation properties applicable in general cyclic models. In cyclic quantum scenarios, existing frameworks have focussed on a subset of possible cyclic causal scenarios, with graph-separation properties yet unexplored. This work proposes a framework applicable to all consistent quantum and classical cyclic causal models on finite-dimensional systems. We address these challenges by introducing a robust probability rule and a novel graph-separation property, p-separation, which we prove to be sound and complete for all such models. Our approach maps cyclic causal models to acyclic ones with post-selection, leveraging the post-selected quantum teleportation protocol. We characterize these protocols and their success probabilities along the way. We also establish connections between this formalism and other classical and quantum frameworks to inform a more unified perspective on causality. This provides a foundation for more general cyclic causal discovery algorithms and to systematically extend open problems and techniques from acyclic informational networks (e.g., certification of non-classicality) to cyclic causal structures and networks.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.04168v1</guid>
+      <category>quant-ph</category>
+      <category>math.ST</category>
+      <category>stat.ML</category>
+      <category>stat.TH</category>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Carla Ferradini, Victor Gitton, V. Vilasini</dc:creator>
+    </item>
+    <item>
+      <title>Variational decision diagrams for quantum-inspired machine learning applications</title>
+      <link>https://arxiv.org/abs/2502.04271</link>
+      <description>arXiv:2502.04271v1 Announce Type: new 
+Abstract: Decision diagrams (DDs) have emerged as an efficient tool for simulating quantum circuits due to their capacity to exploit data redundancies in quantum states and quantum operations, enabling the efficient computation of probability amplitudes. However, their application in quantum machine learning (QML) has remained unexplored. This paper introduces variational decision diagrams (VDDs), a novel graph structure that combines the structural benefits of DDs with the adaptability of variational methods for efficiently representing quantum states. We investigate the trainability of VDDs by applying them to the ground state estimation problem for transverse-field Ising and Heisenberg Hamiltonians. Analysis of gradient variance suggests that training VDDs is possible, as no signs of vanishing gradients--also known as barren plateaus--are observed. This work provides new insights into the use of decision diagrams in QML as an alternative to design and train variational ans\"atze.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.04271v1</guid>
+      <category>quant-ph</category>
+      <category>cs.LG</category>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Santiago Acevedo-Mancera, Vladimir Vargas-Calder\'on, Herbert Vinck-Posada</dc:creator>
+    </item>
+    <item>
+      <title>Reed-Muller Codes on CQ Channels via a New Correlation Bound for Quantum Observables</title>
+      <link>https://arxiv.org/abs/2502.03785</link>
+      <description>arXiv:2502.03785v1 Announce Type: cross 
+Abstract: The question of whether Reed-Muller (RM) codes achieve capacity on binary memoryless symmetric (BMS) channels has drawn attention since it was resolved positively for the binary erasure channel by Kudekar et al. in 2016. In 2021, Reeves and Pfister extended this to prove the bit-error probability vanishes on BMS channels when the code rate is less than capacity. In 2023, Abbe and Sandon improved this to show the block-error probability also goes to zero. These results analyze decoding functions using symmetry and the nested structure of RM codes. In this work, we focus on binary-input symmetric classical-quantum (BSCQ) channels and the Holevo capacity. For a BSCQ, we consider observables that estimate the channel input in the sense of minimizing the mean-squared error (MSE). Using the orthogonal decomposition of these observables under a weighted inner product, we establish a recursive relation for the minimum MSE estimate of a single bit in the RM code. Our results show that any set of $2^{o(\sqrt{\log N})}$ bits can be decoded with a high probability when the code rate is less than the Holevo capacity.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.03785v1</guid>
       <category>cs.IT</category>
       <category>math.IT</category>
       <category>quant-ph</category>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>cross</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Pau Colomer, Christian Deppe, Holger Boche, Andreas Winter</dc:creator>
+      <dc:creator>Avijit Mandal, Henry D. Pfister</dc:creator>
     </item>
     <item>
-      <title>Bayesian Parameter Shift Rule in Variational Quantum Eigensolvers</title>
-      <link>https://arxiv.org/abs/2502.02625</link>
-      <description>arXiv:2502.02625v1 Announce Type: cross 
-Abstract: Parameter shift rules (PSRs) are key techniques for efficient gradient estimation in variational quantum eigensolvers (VQEs). In this paper, we propose its Bayesian variant, where Gaussian processes with appropriate kernels are used to estimate the gradient of the VQE objective. Our Bayesian PSR offers flexible gradient estimation from observations at arbitrary locations with uncertainty information and reduces to the generalized PSR in special cases. In stochastic gradient descent (SGD), the flexibility of Bayesian PSR allows the reuse of observations in previous steps, which accelerates the optimization process. Furthermore, the accessibility to the posterior uncertainty, along with our proposed notion of gradient confident region (GradCoRe), enables us to minimize the observation costs in each SGD step. Our numerical experiments show that the VQE optimization with Bayesian PSR and GradCoRe significantly accelerates SGD and outperforms the state-of-the-art methods, including sequential minimal optimization.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.02625v1</guid>
+      <title>Variational Quantum Optimization with Continuous Bandits</title>
+      <link>https://arxiv.org/abs/2502.04021</link>
+      <description>arXiv:2502.04021v1 Announce Type: cross 
+Abstract: We introduce a novel approach to variational Quantum algorithms (VQA) via continuous bandits. VQA are a class of hybrid Quantum-classical algorithms where the parameters of Quantum circuits are optimized by classical algorithms. Previous work has used zero and first order gradient based methods, however such algorithms suffer from the barren plateau (BP) problem where gradients and loss differences are exponentially small. We introduce an approach using bandits methods which combine global exploration with local exploitation. We show how VQA can be formulated as a best arm identification problem in a continuous space of arms with Lipschitz smoothness. While regret minimization has been addressed in this setting, existing methods for pure exploration only cover discrete spaces. We give the first results for pure exploration in a continuous setting and derive a fixed-confidence, information-theoretic, instance specific lower bound. Under certain assumptions on the expected payoff, we derive a simple algorithm, which is near-optimal with respect to our lower bound. Finally, we apply our continuous bandit algorithm to two VQA schemes: a PQC and a QAOA quantum circuit, showing that we significantly outperform the previously known state of the art methods (which used gradient based methods).</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.04021v1</guid>
       <category>cs.LG</category>
       <category>quant-ph</category>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>cross</arxiv:announce_type>
       <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-      <dc:creator>Samuele Pedrielli, Christopher J. Anders, Lena Funcke, Karl Jansen, Kim A. Nicoli, Shinichi Nakajima</dc:creator>
+      <dc:creator>Marc Wanner, Johan Jonasson, Emil Carlsson, Devdatt Dubhashi</dc:creator>
     </item>
     <item>
-      <title>Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing</title>
-      <link>https://arxiv.org/abs/2502.03086</link>
-      <description>arXiv:2502.03086v1 Announce Type: cross 
-Abstract: This study explores the implementation of large Quantum Restricted Boltzmann Machines (QRBMs), a key advancement in Quantum Machine Learning (QML), as generative models on D-Wave's Pegasus quantum hardware to address dataset imbalance in Intrusion Detection Systems (IDS). By leveraging Pegasus's enhanced connectivity and computational capabilities, a QRBM with 120 visible and 120 hidden units was successfully embedded, surpassing the limitations of default embedding tools. The QRBM synthesized over 1.6 million attack samples, achieving a balanced dataset of over 4.2 million records. Comparative evaluations with traditional balancing methods, such as SMOTE and RandomOversampler, revealed that QRBMs produced higher-quality synthetic samples, significantly improving detection rates, precision, recall, and F1 score across diverse classifiers. The study underscores the scalability and efficiency of QRBMs, completing balancing tasks in milliseconds. These findings highlight the transformative potential of QML and QRBMs as next-generation tools in data preprocessing, offering robust solutions for complex computational challenges in modern information systems.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.03086v1</guid>
-      <category>cs.ET</category>
-      <category>cs.AI</category>
-      <category>cs.LG</category>
-      <category>cs.NE</category>
+      <title>Cyclic functional causal models beyond unique solvability with a graph separation theorem</title>
+      <link>https://arxiv.org/abs/2502.04171</link>
+      <description>arXiv:2502.04171v1 Announce Type: cross 
+Abstract: Functional causal models (fCMs) specify functional dependencies between random variables associated to the vertices of a graph. In directed acyclic graphs (DAGs), fCMs are well-understood: a unique probability distribution on the random variables can be easily specified, and a crucial graph-separation result called the d-separation theorem allows one to characterize conditional independences between the variables. However, fCMs on cyclic graphs pose challenges due to the absence of a systematic way to assign a unique probability distribution to the fCM's variables, the failure of the d-separation theorem, and lack of a generalization of this theorem that is applicable to all consistent cyclic fCMs. In this work, we develop a causal modeling framework applicable to all cyclic fCMs involving finite-cardinality variables, except inconsistent ones admitting no solutions. Our probability rule assigns a unique distribution even to non-uniquely solvable cyclic fCMs and reduces to the known rule for uniquely solvable fCMs. We identify a class of fCMs, called averagely uniquely solvable, that we show to be the largest class where the probabilities admit a Markov factorization. Furthermore, we introduce a new graph-separation property, p-separation, and prove this to be sound and complete for all consistent finite-cardinality cyclic fCMs while recovering the d-separation theorem for DAGs. These results are obtained by considering classical post-selected teleportation protocols inspired by analogous protocols in quantum information theory. We discuss further avenues for exploration, linking in particular problems in cyclic fCMs and in quantum causality.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.04171v1</guid>
+      <category>math.ST</category>
       <category>quant-ph</category>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 -0500</pubDate>
+      <category>stat.ML</category>
+      <category>stat.TH</category>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
       <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
-      <dc:creator>Salvatore Sinno, Markus Bertl, Arati Sahoo, Bhavika Bhalgamiya, Thomas Gro{\ss}, Nicholas Chancellor</dc:creator>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Carla Ferradini, Victor Gitton, V. Vilasini</dc:creator>
     </item>
   </channel>
 </rss>
