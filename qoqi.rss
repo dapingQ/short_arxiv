@@ -7,97 +7,12 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2025 05:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 05:00:02 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
+    <pubDate>Sat, 08 Feb 2025 00:00:00 -0500</pubDate>
     <skipDays>
-      <day>Sunday</day>
       <day>Saturday</day>
+      <day>Sunday</day>
     </skipDays>
-    <item>
-      <title>Many-body non-Hermitian skin effect with exact steady states in dissipative lattice gauge theory</title>
-      <link>https://arxiv.org/abs/2502.03534</link>
-      <description>arXiv:2502.03534v1 Announce Type: new 
-Abstract: We introduce a dissipative lattice gauge model that exhibits the many-body version of the non-Hermitian skin effect. The dissipative couplings between dynamical gauge fields on the lattice links and the surrounding environment generate chiral motions of particles residing on lattice sites. Although the system involves many-body interactions, the local gauge symmetries offer a flexible approach to exactly constructing the steady state that demonstrates the many-body non-Hermitian skin effect. Furthermore, our approach can be generalized to realize a new type of many-body non-Hermitian skin effect, dubbed the hierarchical skin effect, where different subsystem degrees of freedom exhibit boundary accumulation of multiple moments at different orders. Our findings can be readily observed by engineering dissipation in state-of-the-art lattice gauge simulators.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.03534v1</guid>
-      <category>quant-ph</category>
-      <category>cond-mat.mes-hall</category>
-      <category>cond-mat.quant-gas</category>
-      <category>cond-mat.str-el</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Yu-Min Hu, Zijian Wang, Biao Lian, Zhong Wang</dc:creator>
-    </item>
-    <item>
-      <title>Rapid comprehensive characterization of biphoton spatial-polarization hyperentanglement</title>
-      <link>https://arxiv.org/abs/2502.03586</link>
-      <description>arXiv:2502.03586v1 Announce Type: new 
-Abstract: Hyperentanglement, which refers to entanglement across more than one degree of freedom (DoF), is a valuable resource in photonic quantum information technology. However, the lack of efficient characterization schemes hinders its quantitative study and application potential. Here, we present a rapid quantitative characterization of spatial-polarization hyperentangled biphoton state produced from spontaneous parametric down-conversion. We first demonstrate rapid certification of the hyperentanglement dimensionality with a cumulative acquisition time of only 17 minutes. In particular, we verify transverse spatial entanglement through a violation of the Einstein-Podolsky-Rosen criterion with a minimum conditional uncertainty product of $(0.11\pm0.05)\hbar$ and certify the entanglement dimensionality to be at least 148. Next, by performing spatially-resolved polarization state tomography of the entire field, we demonstrate the generation of an entire class of near-maximally polarization-entangled states with an average concurrence of $0.8303\pm0.0004$. Together, the results reveal a total dimensionality of at least 251, which is the highest dimensionality reported for hyperentanglement. These measurements quantitatively resolve the influence of the spatial correlations of the down-converted photons and the angular spectrum of the pump beam on the polarization entanglement. Our study lays important groundwork for further exploiting the high dimensionality and cross-DoF correlations in hyperentangled states for future quantum technologies.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.03586v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Cheng Li, Girish Kulkarni, Isaac Soward, Yingwen Zhang, Jeremy Upham, Duncan England, Andrei Nomerotski, Ebrahim Karimi, Robert Boyd</dc:creator>
-    </item>
-    <item>
-      <title>Towards experimental demonstration of quantum position verification using true single photons</title>
-      <link>https://arxiv.org/abs/2502.04125</link>
-      <description>arXiv:2502.04125v1 Announce Type: new 
-Abstract: The geographical position can be a good credential for authentication of a party, this is the basis of position-based cryptography - but classically this cannot be done securely without physical exchange of a private key. However, recently, it has been shown that by combining quantum mechanics with the speed of light limit of special relativity, this might be possible: quantum position verification. Here we demonstrate experimentally a protocol that uses two-photon Hong-Ou-Mandel interference at a beamsplitter, which, in combination with two additional beam splitters and 4 detectors is rendering the protocol resilient to loss. With this we are able to show first results towards an experimental demonstration of quantum position verification.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.04125v1</guid>
-      <category>quant-ph</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Kirsten Kanneworff, Mio Poortvliet, Dirk Bouwmeester, Rene Allerstorfer, Philip Verduyn Lunel, Florian Speelman, Harry Buhrman, Petr Steindl, Wolfgang L\"offler</dc:creator>
-    </item>
-    <item>
-      <title>General theory of slow non-Hermitian evolution</title>
-      <link>https://arxiv.org/abs/2502.04214</link>
-      <description>arXiv:2502.04214v1 Announce Type: new 
-Abstract: Non-Hermitian systems are widespread in both classical and quantum physics. The dynamics of such systems has recently become a focal point of research, showcasing surprising behaviors that include apparent violation of the adiabatic theorem and chiral topological conversion related to encircling exceptional points (EPs). These have both fundamental interest and potential practical applications. Yet the current literature features a number of apparently irreconcilable results. Here we develop a general theory for slow evolution of non-Hermitian systems and resolve these contradictions. We prove an analog of the adiabatic theorem for non-Hermitian systems and generalize it in the presence of uncontrolled environmental fluctuations (noise). The effect of noise turns out to be crucial due to inherent exponential instabilities present in non-Hermitian systems. Disproving common wisdom, the end state of the system is determined by the final Hamiltonian only, and is insensitive to other details of the evolution trajectory in parameter space. Our quantitative theory, leading to transparent physical intuition, is amenable to experimental tests. It provides efficient tools to predict the outcome of the system's evolution, avoiding the need to follow costly time-evolution simulations. Our approach may be useful for designing devices based on non-Hermitian physics and may stimulate analyses of classical and quantum non-Hermitian-Hamiltonian dynamics, as well as that of quantum Lindbladian and hybrid-Liouvillian systems.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.04214v1</guid>
-      <category>quant-ph</category>
-      <category>cond-mat.mes-hall</category>
-      <category>math-ph</category>
-      <category>math.MP</category>
-      <category>physics.optics</category>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>new</arxiv:announce_type>
-      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
-      <dc:creator>Parveen Kumar, Yuval Gefen, Kyrylo Snizhko</dc:creator>
-    </item>
-    <item>
-      <title>Open transmission channels in multimode fiber cavities with random mode mixing</title>
-      <link>https://arxiv.org/abs/2502.01596</link>
-      <description>arXiv:2502.01596v1 Announce Type: cross 
-Abstract: The transport of light in disordered media is governed by open transmission channels, which enable nearly complete transmission of the incident power, despite low average transmission. Extensively studied in diffusive media and chaotic cavities, open channels exhibit unique properties such as universal spatial structure and extended dwell times. However, their experimental study is challenging due to the large number of modes required for control and measurement. We propose a multimode fiber cavity (MMFC) as a platform to explore open channels. Leveraging mode confinement and finite angular spread, MMFCs enable a full control over all channels. This allowed us to achieve an 18-fold power enhancement by selectively exciting an open channel with a transmission rate of $0.90 \pm 0.04$. By analyzing 100 transmission matrices of MMFC realizations, we observed a bimodal transmission eigenvalue distribution, indicating high channel control and low losses. The scalability of MMFCs, combined with long dwell times and potential for nonlinear phenomena, offers new opportunities for studying complex wave transport.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.01596v1</guid>
-      <category>physics.optics</category>
-      <category>quant-ph</category>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
-      <dc:creator>Guy Pelc, Shay Guterman, Rodrigo Guti\'errez-Cuevas, Arthur Goetschy, S\'ebastien M. Popoff, Yaron Bromberg</dc:creator>
-    </item>
-    <item>
-      <title>Deep Learning-Optimized, Fabrication Error-Tolerant Photonic Crystal Nanobeam Cavities for Scalable On-Chip Diamond Quantum Systems</title>
-      <link>https://arxiv.org/abs/2502.03987</link>
-      <description>arXiv:2502.03987v1 Announce Type: cross 
-Abstract: Cavity-enhanced diamond color center qubits can be initialized, manipulated, entangled, and read individually with high fidelity, which makes them ideal for large-scale, modular quantum computers, quantum networks, and distributed quantum sensing systems. However, diamond's unique material properties pose significant challenges in manufacturing nanophotonic devices, leading to fabrication-induced structural imperfections and inaccuracies in defect implantation, which hinder reproducibility, degrade optical properties and compromise the spatial coupling of color centers to small mode-volume cavities. A cavity design tolerant to fabrication imperfections, such as surface roughness, sidewall slant, and non-optimal emitter positioning, can improve coupling efficiency while simplifying fabrication. To address this challenge, a deep learning-based optimization methodology is developed to enhance the fabrication error tolerance of nanophotonic devices. Convolutional neural networks (CNNs) are applied to promising designs, such as L2 and fishbone nanobeam cavities, predicting Q-factors up to one million times faster than traditional finite-difference time-domain (FDTD) simulations, enabling efficient optimization of complex, high-dimensional parameter spaces. The CNNs achieve prediction errors below 3.99% and correlation coefficients up to 0.988. Optimized structures demonstrate a 52% reduction in Q-factor degradation, achieving quality factors of 5e4 under real-world conditions and a two-fold expansion in field distribution, enabling efficient coupling of non-optimally positioned emitters. This methodology enables scalable, high-yield manufacturing of robust nanophotonic devices, including the cavity-enhanced diamond quantum systems developed in this study.</description>
-      <guid isPermaLink="false">oai:arXiv.org:2502.03987v1</guid>
-      <category>physics.optics</category>
-      <category>physics.app-ph</category>
-      <category>quant-ph</category>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 -0500</pubDate>
-      <arxiv:announce_type>cross</arxiv:announce_type>
-      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
-      <dc:creator>Sander van Haagen, Salahuddin Nur, Ryoichi Ishihara</dc:creator>
-    </item>
   </channel>
 </rss>
