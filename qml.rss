@@ -7,12 +7,71 @@
     <atom:link href="http://rss.arxiv.org/rss/quant-ph" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2025 05:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 05:00:11 +0000</lastBuildDate>
     <managingEditor>rss-help@arxiv.org</managingEditor>
-    <pubDate>Sun, 09 Feb 2025 00:00:00 -0500</pubDate>
+    <pubDate>Mon, 10 Feb 2025 00:00:00 -0500</pubDate>
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
+    <item>
+      <title>Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms</title>
+      <link>https://arxiv.org/abs/2502.04758</link>
+      <description>arXiv:2502.04758v1 Announce Type: new 
+Abstract: We analyze the DP (differential privacy) properties of the quantum recommendation algorithm and the quantum-inspired-classical recommendation algorithm. We discover that the quantum recommendation algorithm is a privacy curating mechanism on its own, requiring no external noise, which is different from traditional differential privacy mechanisms. In our analysis, a novel perturbation method tailored for SVD (singular value decomposition) and low-rank matrix approximation problems is introduced. Using the perturbation method and random matrix theory, we are able to derive that both the quantum and quantum-inspired-classical algorithms are $\big(\tilde{\mathcal{O}}\big(\frac 1n\big),\,\, \tilde{\mathcal{O}}\big(\frac{1}{\min\{m,n\}}\big)\big)$-DP under some reasonable restrictions, where $m$ and $n$ are numbers of users and products in the input preference database respectively. Nevertheless, a comparison shows that the quantum algorithm has better privacy preserving potential than the classical one.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.04758v1</guid>
+      <category>quant-ph</category>
+      <category>cs.CR</category>
+      <category>cs.ET</category>
+      <category>cs.LG</category>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+      <dc:creator>Chenjian Li, Mingsheng Ying</dc:creator>
+    </item>
+    <item>
+      <title>A Variant of the Bravyi-Terhal Bound for Arbitrary Boundary Conditions</title>
+      <link>https://arxiv.org/abs/2502.04995</link>
+      <description>arXiv:2502.04995v1 Announce Type: new 
+Abstract: We present a modified version of the Bravyi-Terhal bound that applies to quantum codes defined by local parity-check constraints on a $D$-dimensional lattice quotient. Specifically, we consider a quotient $\mathbb{Z}^D/\Lambda$ of $\mathbb{Z}^D$ of cardinality $n$, where $\Lambda$ is some $D$-dimensional sublattice of $\mathbb{Z}^D$: we suppose that every vertex of this quotient indexes $m$ qubits of a stabilizer code $C$, which therefore has length $nm$. We prove that if all stabilizer generators act on qubits whose indices lie within a ball of radius $\rho$, then the minimum distance $d$ of the code satisfies $d \leq m\sqrt{\gamma_D}(\sqrt{D} + 4\rho)n^\frac{D-1}{D}$ whenever $n^{1/D} \geq 8\rho\sqrt{\gamma_D}$, where $\gamma_D$ is the $D$-dimensional Hermite constant. We apply this bound to derive an upper bound on the minimum distance of Abelian Two-Block Group Algebra (2BGA) codes whose parity-check matrices have the form $[\mathbf{A} \, \vert \, \mathbf{B}]$ with each submatrix representing an element of a group algebra over a finite abelian group.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.04995v1</guid>
+      <category>quant-ph</category>
+      <category>cs.IT</category>
+      <category>math.IT</category>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Fran\c{c}ois Arnault, Philippe Gaborit, Wouter Rozendaal, Nicolas Saussay, Gilles Z\'emor</dc:creator>
+    </item>
+    <item>
+      <title>Non-linear Quantum Monte Carlo</title>
+      <link>https://arxiv.org/abs/2502.05094</link>
+      <description>arXiv:2502.05094v1 Announce Type: new 
+Abstract: The mean of a random variable can be understood as a $\textit{linear}$ functional on the space of probability distributions. Quantum computing is known to provide a quadratic speedup over classical Monte Carlo methods for mean estimation. In this paper, we investigate whether a similar quadratic speedup is achievable for estimating $\textit{non-linear}$ functionals of probability distributions. We propose a quantum-inside-quantum Monte Carlo algorithm that achieves such a speedup for a broad class of non-linear estimation problems, including nested conditional expectations and stochastic optimization. Our algorithm improves upon the direct application of the quantum multilevel Monte Carlo algorithm introduced by An et al.. The existing lower bound indicates that our algorithm is optimal up polylogarithmic factors. A key innovation of our approach is a new sequence of multilevel Monte Carlo approximations specifically designed for quantum computing, which is central to the algorithm's improved performance.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.05094v1</guid>
+      <category>quant-ph</category>
+      <category>cs.LG</category>
+      <category>cs.NA</category>
+      <category>math.NA</category>
+      <category>stat.CO</category>
+      <category>stat.ML</category>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Jose Blanchet, Yassine Hamoudi, Mario Szegedy, Guanyang Wang</dc:creator>
+    </item>
+    <item>
+      <title>Generative-enhanced optimization for knapsack problems: an industry-relevant study</title>
+      <link>https://arxiv.org/abs/2502.04928</link>
+      <description>arXiv:2502.04928v1 Announce Type: cross 
+Abstract: Optimization is a crucial task in various industries such as logistics, aviation, manufacturing, chemical, pharmaceutical, and insurance, where finding the best solution to a problem can result in significant cost savings and increased efficiency. Tensor networks (TNs) have gained prominence in recent years in modeling classical systems with quantum-inspired approaches. More recently, TN generative-enhanced optimization (TN-GEO) has been proposed as a strategy which uses generative modeling to efficiently sample valid solutions with respect to certain constraints of optimization problems. Moreover, it has been shown that symmetric TNs (STNs) can encode certain constraints of optimization problems, thus aiding in their solution process. In this work, we investigate the applicability of TN- and STN-GEO to an industry relevant problem class, a multi-knapsack problem, in which each object must be assigned to an available knapsack. We detail a prescription for practitioners to use the TN-and STN-GEO methodology and study its scaling behavior and dependence on its hyper-parameters. We benchmark 60 different problem instances and find that TN-GEO and STN-GEO produce results of similar quality to simulated annealing.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2502.04928v1</guid>
+      <category>cs.LG</category>
+      <category>quant-ph</category>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Yelyzaveta Vodovozova, Abhishek Awasthi, Caitlin Jones, Joseph Doetsch, Karen Wintersperger, Florian Krellner, Carlos A. Riofr\'io</dc:creator>
+    </item>
   </channel>
 </rss>
